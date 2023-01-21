@@ -37,21 +37,21 @@ void MyCallback(float **in, float **out, size_t size) {
     dryL = in[0][i];
     dryR = in[1][i];
 
-    jitter_out = jitter.Process();  
+    jitter_out = jitter.Process();
     verb.Process(dryL, dryR, &verbL, &verbR);
 
-    out[0][i] = (dryL * dryLevel) + verbL * ((1-jitterMixKnob) + (jitter_out * jitterMixKnob)) * wetLevel;
+    out[0][i] = (dryL * dryLevel) + verbL * ((1 - jitterMixKnob) + (jitter_out * jitterMixKnob)) * wetLevel;
     out[1][i] = (dryR * dryLevel) + verbR;
   }
 }
 
 void setup() {
-  
+
   // Initialize for Daisy pod at 48kHz
   hw = DAISY.init(DAISY_SEED, AUDIO_SR_48K);
   num_channels = hw.num_channels;
   sample_rate = DAISY.get_samplerate();
- 
+
   // Initialize reverb
   verb.Init(sample_rate);
   verb.SetFeedback(0.95f);
@@ -67,11 +67,10 @@ void setup() {
 }
 
 void loop() {
-  dryLevel = CtrlVal(A0);
-  wetLevel = CtrlVal(A1);
-  verb.SetFeedback(0.8f + CtrlVal(A2) * .199f);
-  jitterMixKnob = CtrlVal(A3);
- 
-  verb.SetLpFreq(CtrlVal(A4) * 20000.0f);
+  dryLevel = CtrlVal(A0); // pin 22
+  wetLevel = CtrlVal(A1); // pin 23
+  verb.SetFeedback(0.8f + CtrlVal(A2) * .199f); // pin 24
+  jitterMixKnob = CtrlVal(A3); // pin 25
+  verb.SetLpFreq(CtrlVal(A4) * 20000.0f); // pin 26
 
 }
