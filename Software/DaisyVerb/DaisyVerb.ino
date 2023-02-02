@@ -41,7 +41,7 @@ void MyCallback(float **in, float **out, size_t size) {
     verb.Process(dryL, dryR, &verbL, &verbR);
 
     out[0][i] = (dryL * dryLevel) + verbL * ((1 - jitterMixKnob) + (jitter_out * jitterMixKnob)) * wetLevel;
-    out[1][i] = (dryR * dryLevel) + verbR;
+    out[1][i] = (dryR * dryLevel) + verbR * ((1 - jitterMixKnob) + (jitter_out * jitterMixKnob)) * wetLevel;
   }
 }
 
