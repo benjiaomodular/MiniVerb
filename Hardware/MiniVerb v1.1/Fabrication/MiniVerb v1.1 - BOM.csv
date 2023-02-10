@@ -1,0 +1,14 @@
+Reference, Quantity, Value, Manufacturers Name, Mfg #, Part Description
+A1 ,1,Daisy Seed,Electro-Smith,,
+AUDIO_IN1 AUDIO_OUT1 AUDIO_IN2 AUDIO_OUT2 ,4,Audio Jack,Tayda Electronics,PJ-3001F,
+C1 C2 C4 C5 C7 C8 ,6,47pF,,,
+C11 C12 C13 C14 ,4,100nF,,,
+C3 C6 ,2,580pF,,,
+C9 C10 ,2,100uF,,,
+D1 ,1,3mm_LED,,,
+J1 ,1,IDC_2x05,XKB Connectivity ,X9555WV-2X05-6TV01,IDC Connector 2x05 2.54mm Pitch Straight
+POT_DRY1 POT_FBK1 POT_LPF1 POT_MOD1 POT_WET1 ,5,B10K,Alpha (Taiwan),RD901F-40-15R1-B10K,10K OHM Linear Taper Potentiometer Round Shaft PCB 9mm
+R1 R7 R14 R16 R21 ,5,10k,,,
+R2 R3 R4 R5 R6 R8 R11 R12 R13 R17 R18 R19 ,12,100k,,,
+R9 R10 R15 R20 ,4,1k,,,
+U1 U2 ,2,TL074,,,

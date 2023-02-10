@@ -1,7 +1,4 @@
-// Title: reverbsc
-// Description: Applies reverb to input signal
-// Hardware: Daisy Seed
-// Author: Stephen Hensley
+// Based on reverbsc by Stephen Hensley
 
 #include "DaisyDuino.h"
 
@@ -14,7 +11,6 @@ ReverbSc DSY_SDRAM_BSS verb;
 PitchShifter DSY_SDRAM_BSS ps;
 
 static Jitter jitter;
-static Bitcrush bitcrush;
 
 Overdrive drive;
 
@@ -30,20 +26,19 @@ float CtrlVal(uint8_t pin) {
 
 void MyCallback(float **in, float **out, size_t size) {
   float dryL, dryR, verbL, verbR;
-  float crushed;
   float jitter_out;
 
   for (size_t i = 0; i < size; i++) {
     dryL = in[0][i];
     dryR = in[1][i];
-
+   
     jitter_out = jitter.Process();
     verb.Process(dryL, dryR, &verbL, &verbR);
 
     out[0][i] = (dryL * dryLevel) + verbL * ((1 - jitterMixKnob) + (jitter_out * jitterMixKnob)) * wetLevel;
     out[1][i] = (dryR * dryLevel) + verbR * ((1 - jitterMixKnob) + (jitter_out * jitterMixKnob)) * wetLevel;
   }
-}
+} 
 
 void setup() {
 
