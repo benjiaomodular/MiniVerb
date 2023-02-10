@@ -1,7 +1,7 @@
 # MiniVerb
 A reverb module based around the Daisy Seed platform.
 
-![MiniVerb](MiniVerb v1.1 - Schematic.png)
+![MiniVerb](MiniVerb%20v1.1%20-%20Schematic.png)
 
 ## PCB Versions
 
