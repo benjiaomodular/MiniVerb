@@ -1,0 +1,26 @@
+Item,Qty,Reference(s),Value,Footprint,Manufacturers Name,Manufacturers Part Number
+1,1,A1,Device_Audio_Electrosmith_Daisy_Seed_Rev4,daisy-seed:Device_Audio_Electrosmith_Daisy_Seed,Electro-Smith,Daisy_Seed_Rev4
+2,3,"AUDIO_IN1, AUDIO_OUT1, CV1_IN1",MONO_JACK,benjiaomodular:AudioJack_3.5mm,Tayda Electronics,PJ-3001F
+3,3,"C1, C2, C4",47pF,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,YAGEO,CC0603JRNPO9BN470
+4,1,C3,680pF,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,Vishay / Vitramon,VJ0603Y681KXAAC
+5,2,"C5, C6",47uF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,Murata Electronics,GRM219R60J476ME44D
+6,4,"C7, C8, C9, C13",100nF,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,YAGEO,CC0805KRX7R9BB104
+7,1,C14,10nF,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,YAGEO,CC0603JRX7R9BB103
+8,1,D1,3mm_LED,LED_THT:LED_D3.0mm,EKINGLUX,EL304RD
+9,3,"FEEDBACK_POT1, LEVEL_POT1, MOD_POT1",B10K,benjiaomodular:Potentiometer_RV09,Alpha (Taiwan),RD901F-40-15R1-B10K
+10,1,J1,IDC_2x05,Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical,XKB Connectivity ,X9555WV-2X05-6TV01
+11,3,"R1, R7, R11",10k,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,YAGEO,AC0603FR-0710KL
+12,7,"R2, R3, R4, R5, R6, R8, R16",100k,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,YAGEO,RC0603FR-07100KL 
+13,2,"R9, R10",1k,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,YAGEO,RC0603FR-071KL 
+14,1,R12,330,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,TE Connectivity / Holsworthy,CRG0603F330R
+15,1,R14,200k,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,Bourns,CR0603-FX-2003ELF
+16,1,R17,66.5k,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,YAGEO,RC0603FR-0766K5L
+17,1,TP1,TP_12V,TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm,-,-
+18,1,TP2,TP_-12V,TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm,-,-
+19,1,TP3,TP_GND,TestPoint:TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded,-,-
+20,1,TP4,TP_-10V,TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm,-,-
+21,1,TP5,TP_3.3V,TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm,-,-
+22,1,TP7,TP_INPUT_BUFFER,TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm,-,-
+23,1,U1,TL074,Package_SO:SOIC-14_3.9x8.7mm_P1.27mm,Texas Instruments,TL074HIDYYR
+24,1,U2,LM4040LP-10,Package_TO_SOT_SMD:SOT-23_Handsoldering,Texas Instruments,LM4040CIM3-10.0/NOPB
+25,1,U3,MCP6001-OT,Package_TO_SOT_SMD:SOT-23-5,Microchip Technology / Atmel ,MCP6001UT-I/OT 

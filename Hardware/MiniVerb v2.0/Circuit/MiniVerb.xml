@@ -1,0 +1,1273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/projects/synth/MiniVerb/Hardware/MiniVerb v2.0/Circuit/MiniVerb.kicad_sch</source>
+    <date>Saturday, 11 February, 2023 01:38:29 AM</date>
+    <tool>Eeschema 6.0.10+dfsg-1~bpo11+1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>MiniVerb V2</title>
+        <company/>
+        <rev>v2.0</rev>
+        <date/>
+        <source>MiniVerb.kicad_sch</source>
+        <comment number="1" value="An SMT Version of the MiniVerb Project"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="A1">
+      <value>Device_Audio_Electrosmith_Daisy_Seed_Rev4</value>
+      <footprint>daisy-seed:Device_Audio_Electrosmith_Daisy_Seed</footprint>
+      <datasheet>https://github.com/electro-smith/DaisyWiki/wiki</datasheet>
+      <fields>
+        <field name="Manufacturers Name">Electro-Smith</field>
+      </fields>
+      <libsource lib="Device_Audio_Electrosmith_Daisy_Seed" part="Device_Audio_Electrosmith_Daisy_Seed_Rev4" description="An embedded platform for music"/>
+      <property name="Manufacturers Name" value="Electro-Smith"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02f8be88-8200-4adb-8027-d1595a10cc81</tstamps>
+    </comp>
+    <comp ref="AUDIO_IN1">
+      <value>MONO_JACK</value>
+      <footprint>benjiaomodular:AudioJack_3.5mm</footprint>
+      <fields>
+        <field name="Manufacturers Name">Tayda Electronics</field>
+        <field name="Manufacturers Part Number">PJ-3001F</field>
+      </fields>
+      <libsource lib="Connector" part="AudioJack2_SwitchT" description="Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling)"/>
+      <property name="Manufacturers Name" value="Tayda Electronics"/>
+      <property name="Manufacturers Part Number" value="PJ-3001F"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000063179fac</tstamps>
+    </comp>
+    <comp ref="AUDIO_OUT1">
+      <value>MONO_JACK</value>
+      <footprint>benjiaomodular:AudioJack_3.5mm</footprint>
+      <fields>
+        <field name="Manufacturers Name">Tayda Electronics</field>
+        <field name="Manufacturers Part Number">PJ-3001F</field>
+      </fields>
+      <libsource lib="Connector" part="AudioJack2_SwitchT" description="Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling)"/>
+      <property name="Manufacturers Name" value="Tayda Electronics"/>
+      <property name="Manufacturers Part Number" value="PJ-3001F"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000631b6a7e</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>47pF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">CC0603JRNPO9BN470</field>
+        <field name="Mfg #">CC0603JRNPO9BN470</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Manufacturers Part Number" value="CC0603JRNPO9BN470"/>
+      <property name="Mfg #" value="CC0603JRNPO9BN470"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000631a078b</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>47pF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">CC0603JRNPO9BN470</field>
+        <field name="Mfg #">CC0603JRNPO9BN470</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Manufacturers Part Number" value="CC0603JRNPO9BN470"/>
+      <property name="Mfg #" value="CC0603JRNPO9BN470"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006315e72e</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>680pF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="Manufacturers Name">Vishay / Vitramon</field>
+        <field name="Manufacturers Part Number">VJ0603Y681KXAAC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturers Name" value="Vishay / Vitramon"/>
+      <property name="Manufacturers Part Number" value="VJ0603Y681KXAAC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000631655cc</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>47pF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">CC0603JRNPO9BN470</field>
+        <field name="Mfg #">CC0603JRNPO9BN470</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Manufacturers Part Number" value="CC0603JRNPO9BN470"/>
+      <property name="Mfg #" value="CC0603JRNPO9BN470"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000631a1058</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>47uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Manufacturers Name">Murata Electronics</field>
+        <field name="Manufacturers Part Number">GRM219R60J476ME44D</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Manufacturers Name" value="Murata Electronics"/>
+      <property name="Manufacturers Part Number" value="GRM219R60J476ME44D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5bc6024f-d8f0-4ca2-82ce-c0371f9fdeea</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>47uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Manufacturers Name">Murata Electronics</field>
+        <field name="Manufacturers Part Number">GRM219R60J476ME44D</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Manufacturers Name" value="Murata Electronics"/>
+      <property name="Manufacturers Part Number" value="GRM219R60J476ME44D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ba16f4f0-c551-4f55-bce4-21253b52308d</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">CC0805KRX7R9BB104</field>
+        <field name="Mfg #">CC0805KRX7R9BB104</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Manufacturers Part Number" value="CC0805KRX7R9BB104"/>
+      <property name="Mfg #" value="CC0805KRX7R9BB104"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4eeea699-5f43-484c-bd7f-d1ab91b0a711</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">CC0805KRX7R9BB104</field>
+        <field name="Mfg #">CC0805KRX7R9BB104</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Manufacturers Part Number" value="CC0805KRX7R9BB104"/>
+      <property name="Mfg #" value="CC0805KRX7R9BB104"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>225804ba-4661-4fe9-b48c-de632fc9e92c</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">CC0805KRX7R9BB104</field>
+        <field name="Mfg #">CC0805KRX7R9BB104</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Manufacturers Part Number" value="CC0805KRX7R9BB104"/>
+      <property name="Mfg #" value="CC0805KRX7R9BB104"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0106d5e-d8b6-4474-96f7-be2410f2d8f8</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">CC0805KRX7R9BB104</field>
+        <field name="Mfg #">CC0805KRX7R9BB104</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Manufacturers Part Number" value="CC0805KRX7R9BB104"/>
+      <property name="Mfg #" value="CC0805KRX7R9BB104"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>86f4c51a-226e-42b3-8a07-6e82f99e6b0a</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">CC0603JRX7R9BB103</field>
+        <field name="Mfg #">CC0603JRX7R9BB103</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Manufacturers Part Number" value="CC0603JRX7R9BB103"/>
+      <property name="Mfg #" value="CC0603JRX7R9BB103"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e8a14acb-ca53-4c01-b292-30e199f37679</tstamps>
+    </comp>
+    <comp ref="CV1_IN1">
+      <value>MONO_JACK</value>
+      <footprint>benjiaomodular:AudioJack_3.5mm</footprint>
+      <fields>
+        <field name="Manufacturers Name">Tayda Electronics</field>
+        <field name="Manufacturers Part Number">PJ-3001F</field>
+      </fields>
+      <libsource lib="Connector" part="AudioJack2_SwitchT" description="Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling)"/>
+      <property name="Manufacturers Name" value="Tayda Electronics"/>
+      <property name="Manufacturers Part Number" value="PJ-3001F"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>efd605da-bb7e-46b5-b091-a5f6d997201b</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>3mm_LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <fields>
+        <field name="LCSC Part #">C2856645</field>
+        <field name="Manufacturers Name">EKINGLUX</field>
+        <field name="Manufacturers Part Number">EL304RD</field>
+        <field name="Mfg #">EL304RD</field>
+        <field name="Part Description">3.0mm Round Through Hole LED</field>
+        <field name="Type">Thru-hole</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC Part #" value="C2856645"/>
+      <property name="Manufacturers Name" value="EKINGLUX"/>
+      <property name="Manufacturers Part Number" value="EL304RD"/>
+      <property name="Mfg #" value="EL304RD"/>
+      <property name="Type" value="Thru-hole"/>
+      <property name="Part Description" value="3.0mm Round Through Hole LED"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c86381df-b54d-491d-bcac-3e1a49ed7503</tstamps>
+    </comp>
+    <comp ref="FEEDBACK_POT1">
+      <value>B10K</value>
+      <footprint>benjiaomodular:Potentiometer_RV09</footprint>
+      <fields>
+        <field name="Manufacturers Name">Alpha (Taiwan)</field>
+        <field name="Manufacturers Part Number">RD901F-40-15R1-B10K</field>
+        <field name="Part Description">10K OHM Linear Taper Potentiometer Round Shaft PCB 9mm</field>
+      </fields>
+      <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Manufacturers Name" value="Alpha (Taiwan)"/>
+      <property name="Manufacturers Part Number" value="RD901F-40-15R1-B10K"/>
+      <property name="Part Description" value="10K OHM Linear Taper Potentiometer Round Shaft PCB 9mm"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4d620aa7-7177-4b23-8bd7-4c984e5d7747</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>IDC_2x05</value>
+      <footprint>Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="LCSC Part #">C706914</field>
+        <field name="Manufacturers Name">XKB Connectivity </field>
+        <field name="Manufacturers Part Number">X9555WV-2X05-6TV01</field>
+        <field name="Mfg #">X9555WV-2X05-6TV01</field>
+        <field name="Part Description">IDC Connector 2x05 2.54mm Pitch Straight</field>
+        <field name="Type">Thru-hole</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x10_Male" description="Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Type" value="Thru-hole"/>
+      <property name="LCSC Part #" value="C706914"/>
+      <property name="Manufacturers Name" value="XKB Connectivity "/>
+      <property name="Manufacturers Part Number" value="X9555WV-2X05-6TV01"/>
+      <property name="Mfg #" value="X9555WV-2X05-6TV01"/>
+      <property name="Package" value=""/>
+      <property name="Part Description" value="IDC Connector 2x05 2.54mm Pitch Straight"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6155aa76-ee0a-41a9-bbbe-a3d1e73d3778</tstamps>
+    </comp>
+    <comp ref="LEVEL_POT1">
+      <value>B10K</value>
+      <footprint>benjiaomodular:Potentiometer_RV09</footprint>
+      <fields>
+        <field name="Manufacturers Name">Alpha (Taiwan)</field>
+        <field name="Manufacturers Part Number">RD901F-40-15R1-B10K</field>
+        <field name="Part Description">10K OHM Linear Taper Potentiometer Round Shaft PCB 9mm</field>
+      </fields>
+      <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Manufacturers Name" value="Alpha (Taiwan)"/>
+      <property name="Manufacturers Part Number" value="RD901F-40-15R1-B10K"/>
+      <property name="Part Description" value="10K OHM Linear Taper Potentiometer Round Shaft PCB 9mm"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>959a9918-e67f-4655-b070-b48a997ce4f8</tstamps>
+    </comp>
+    <comp ref="MOD_POT1">
+      <value>B10K</value>
+      <footprint>benjiaomodular:Potentiometer_RV09</footprint>
+      <fields>
+        <field name="Manufacturers Name">Alpha (Taiwan)</field>
+        <field name="Manufacturers Part Number">RD901F-40-15R1-B10K</field>
+        <field name="Part Description">10K OHM Linear Taper Potentiometer Round Shaft PCB 9mm</field>
+      </fields>
+      <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Manufacturers Name" value="Alpha (Taiwan)"/>
+      <property name="Manufacturers Part Number" value="RD901F-40-15R1-B10K"/>
+      <property name="Part Description" value="10K OHM Linear Taper Potentiometer Round Shaft PCB 9mm"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>522b2169-28e3-446f-9351-a7a6b8de5e39</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">AC0603FR-0710KL</field>
+        <field name="Mfg #">AC0603FR-0710KL</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Manufacturers Part Number" value="AC0603FR-0710KL"/>
+      <property name="Mfg #" value="AC0603FR-0710KL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006319018b</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">RC0603FR-07100KL </field>
+        <field name="Mfg #">RC0603FR-07100KL </field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Manufacturers Part Number" value="RC0603FR-07100KL "/>
+      <property name="Mfg #" value="RC0603FR-07100KL "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000063127730</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">RC0603FR-07100KL </field>
+        <field name="Mfg #">RC0603FR-07100KL </field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Manufacturers Part Number" value="RC0603FR-07100KL "/>
+      <property name="Mfg #" value="RC0603FR-07100KL "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000063191962</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">RC0603FR-07100KL </field>
+        <field name="Mfg #">RC0603FR-07100KL </field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Manufacturers Part Number" value="RC0603FR-07100KL "/>
+      <property name="Mfg #" value="RC0603FR-07100KL "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000063126918</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">RC0603FR-07100KL </field>
+        <field name="Mfg #">RC0603FR-07100KL </field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Manufacturers Part Number" value="RC0603FR-07100KL "/>
+      <property name="Mfg #" value="RC0603FR-07100KL "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006312e120</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">RC0603FR-07100KL </field>
+        <field name="Mfg #">RC0603FR-07100KL </field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Manufacturers Part Number" value="RC0603FR-07100KL "/>
+      <property name="Mfg #" value="RC0603FR-07100KL "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000631927d0</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">AC0603FR-0710KL</field>
+        <field name="Mfg #">AC0603FR-0710KL</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Manufacturers Part Number" value="AC0603FR-0710KL"/>
+      <property name="Mfg #" value="AC0603FR-0710KL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000063133e26</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">RC0603FR-07100KL </field>
+        <field name="Mfg #">RC0603FR-07100KL </field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Manufacturers Part Number" value="RC0603FR-07100KL "/>
+      <property name="Mfg #" value="RC0603FR-07100KL "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000063192191</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">RC0603FR-071KL </field>
+        <field name="Mfg #">RC0603FR-071KL </field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Manufacturers Part Number" value="RC0603FR-071KL "/>
+      <property name="Mfg #" value="RC0603FR-071KL "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000631b9e05</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">RC0603FR-071KL </field>
+        <field name="Mfg #">RC0603FR-071KL </field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Manufacturers Part Number" value="RC0603FR-071KL "/>
+      <property name="Mfg #" value="RC0603FR-071KL "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000631348d5</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C116677</field>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">AC0603FR-0710KL</field>
+        <field name="Mfg #">AC0603FR-0710KL</field>
+        <field name="Part Description">Thick Film Resistors - SMD 10 kOhms 100mW 0603 1% AEC-Q200 </field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC Part #" value="C116677"/>
+      <property name="Mfg #" value="AC0603FR-0710KL"/>
+      <property name="Manufacturers Part Number" value="AC0603FR-0710KL"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Package" value=""/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Part Description" value="Thick Film Resistors - SMD 10 kOhms 100mW 0603 1% AEC-Q200 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>65faa0ae-2d1d-4862-b78a-40598bcde3b1</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="Manufacturers Name">TE Connectivity / Holsworthy</field>
+        <field name="Manufacturers Part Number">CRG0603F330R</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturers Name" value="TE Connectivity / Holsworthy"/>
+      <property name="Manufacturers Part Number" value="CRG0603F330R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d6cc93b1-0f2d-4d9d-bf21-ff1f1f4b7eac</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>200k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="Manufacturers Name">Bourns</field>
+        <field name="Manufacturers Part Number">CR0603-FX-2003ELF</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturers Name" value="Bourns"/>
+      <property name="Manufacturers Part Number" value="CR0603-FX-2003ELF"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c79be3a3-6c7e-42b8-bf9f-062abc432dec</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">RC0603FR-07100KL </field>
+        <field name="Mfg #">RC0603FR-07100KL </field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Manufacturers Part Number" value="RC0603FR-07100KL "/>
+      <property name="Mfg #" value="RC0603FR-07100KL "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ab96eaed-c7cc-48a6-b5fe-2866db5bf882</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>66.5k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">RC0603FR-0766K5L</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Manufacturers Part Number" value="RC0603FR-0766K5L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5841b2f6-8a30-4c55-bb73-bb6eed5daabf</tstamps>
+    </comp>
+    <comp ref="TP1">
+      <value>TP_12V</value>
+      <footprint>TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm</footprint>
+      <libsource lib="Connector" part="TestPoint_Flag" description="test point (alternative flag-style design)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>11ea8d08-9089-4071-b2d7-4fa9ceb7fa6e</tstamps>
+    </comp>
+    <comp ref="TP2">
+      <value>TP_-12V</value>
+      <footprint>TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm</footprint>
+      <libsource lib="Connector" part="TestPoint_Flag" description="test point (alternative flag-style design)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2ad65681-cb7d-4fde-bb65-a9bd7ad27df1</tstamps>
+    </comp>
+    <comp ref="TP3">
+      <value>TP_GND</value>
+      <footprint>TestPoint:TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded</footprint>
+      <libsource lib="Connector" part="TestPoint_Flag" description="test point (alternative flag-style design)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9659d99a-b353-4048-b4a0-058ed80d81a1</tstamps>
+    </comp>
+    <comp ref="TP4">
+      <value>TP_-10V</value>
+      <footprint>TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm</footprint>
+      <libsource lib="Connector" part="TestPoint_Flag" description="test point (alternative flag-style design)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a274104f-b221-4e25-bc95-b963c4e4d892</tstamps>
+    </comp>
+    <comp ref="TP5">
+      <value>TP_3.3V</value>
+      <footprint>TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm</footprint>
+      <libsource lib="Connector" part="TestPoint_Flag" description="test point (alternative flag-style design)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d73f403c-f40e-4561-9d95-e77de8c321c4</tstamps>
+    </comp>
+    <comp ref="TP7">
+      <value>TP_INPUT_BUFFER</value>
+      <footprint>TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm</footprint>
+      <libsource lib="Connector" part="TestPoint_Flag" description="test point (alternative flag-style design)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c3f2a1c-a4fc-4cb5-8133-de441e547823</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>TL074</value>
+      <footprint>Package_SO:SOIC-14_3.9x8.7mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tl071.pdf</datasheet>
+      <fields>
+        <field name="Manufacturers Name">Texas Instruments</field>
+        <field name="Manufacturers Part Number">TL074HIDYYR</field>
+      </fields>
+      <libsource lib="Amplifier_Operational" part="TL074" description="Quad Low-Noise JFET-Input Operational Amplifiers, DIP-14/SOIC-14"/>
+      <property name="Manufacturers Name" value="Texas Instruments"/>
+      <property name="Manufacturers Part Number" value="TL074HIDYYR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dbb69bdb-9220-4379-bcd5-b5287c09d2ce 3fe12aca-09db-475e-8e1f-7d610e064a9e 48aa7546-d16e-44e8-8014-73df0e2899f8 bf6496df-7dc4-417d-a2a6-b98bdb60e353 093ca583-c000-462e-88a5-b329589675cc</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>LM4040LP-10</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lm4040-n.pdf</datasheet>
+      <fields>
+        <field name="Manufacturers Name">Texas Instruments</field>
+        <field name="Manufacturers Part Number">LM4040CIM3-10.0/NOPB</field>
+        <field name="Mfg #">LM4040CIM3-10.0/NOPB</field>
+      </fields>
+      <libsource lib="Reference_Voltage" part="LM4040LP-10" description="10.00V Precision Micropower Shunt Voltage Reference, TO-92"/>
+      <property name="Manufacturers Name" value="Texas Instruments"/>
+      <property name="Manufacturers Part Number" value="LM4040CIM3-10.0/NOPB"/>
+      <property name="Mfg #" value="LM4040CIM3-10.0/NOPB"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>14a1b555-ffdc-46e5-acc6-7eac99fb0056</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>MCP6001-OT</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf</datasheet>
+      <fields>
+        <field name="Manufacturers Name">Microchip Technology / Atmel </field>
+        <field name="Manufacturers Part Number">MCP6001UT-I/OT </field>
+        <field name="Mfg #">MCP6001UT-I/OT </field>
+      </fields>
+      <libsource lib="Amplifier_Operational" part="MCP6001-OT" description="1MHz, Low-Power Op Amp, SOT-23-5"/>
+      <property name="Manufacturers Name" value="Microchip Technology / Atmel "/>
+      <property name="Manufacturers Part Number" value="MCP6001UT-I/OT "/>
+      <property name="Mfg #" value="MCP6001UT-I/OT "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>442b504b-f6ab-4906-a444-e7190e87cc07</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Amplifier_Operational" part="MCP6001-OT">
+      <description>1MHz, Low-Power Op Amp, SOT-23-5</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MCP6001-OT</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="output"/>
+        <pin num="2" name="V-" type="power_in"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="-" type="input"/>
+        <pin num="5" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Amplifier_Operational" part="TL074">
+      <description>Quad Low-Noise JFET-Input Operational Amplifiers, DIP-14/SOIC-14</description>
+      <docs>http://www.ti.com/lit/ds/symlink/tl071.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x8.7mm*P1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>TSSOP*4.4x5mm*P0.65mm*</fp>
+        <fp>SSOP*5.3x6.2mm*P0.65mm*</fp>
+        <fp>MSOP*3x3mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TL074</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/tl071.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="output"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V+" type="power_in"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="" type="output"/>
+        <pin num="8" name="" type="output"/>
+        <pin num="9" name="-" type="input"/>
+        <pin num="10" name="+" type="input"/>
+        <pin num="11" name="V-" type="power_in"/>
+        <pin num="12" name="+" type="input"/>
+        <pin num="13" name="-" type="input"/>
+        <pin num="14" name="" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="AudioJack2_SwitchT">
+      <description>Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Jack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">AudioJack2_SwitchT</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="S" name="" type="passive"/>
+        <pin num="T" name="" type="passive"/>
+        <pin num="TN" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x10_Male">
+      <description>Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x10_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="TestPoint_Flag">
+      <description>test point (alternative flag-style design)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint_Flag</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized_US">
+      <description>Polarized capacitor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Potentiometer">
+      <description>Potentiometer</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">R_Potentiometer</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device_Audio_Electrosmith_Daisy_Seed" part="Device_Audio_Electrosmith_Daisy_Seed_Rev4">
+      <description>An embedded platform for music</description>
+      <docs>https://github.com/electro-smith/DaisyWiki/wiki</docs>
+      <fields>
+        <field name="Reference">A</field>
+        <field name="Value">Device_Audio_Electrosmith_Daisy_Seed_Rev4</field>
+        <field name="Footprint">daisy-seed:Device_Audio_Electrosmith_Daisy_Seed</field>
+        <field name="Datasheet">https://github.com/electro-smith/DaisyWiki/wiki</field>
+      </fields>
+      <pins>
+        <pin num="1" name="USB_HS_ID" type="bidirectional"/>
+        <pin num="2" name="SDMMC1_D3" type="bidirectional"/>
+        <pin num="3" name="SDMMC1_D2" type="bidirectional"/>
+        <pin num="4" name="SDMMC1_D1" type="bidirectional"/>
+        <pin num="5" name="SDMMC1_D0" type="bidirectional"/>
+        <pin num="6" name="SDMMC1_CMD" type="bidirectional"/>
+        <pin num="7" name="SDMMC1_CK" type="bidirectional"/>
+        <pin num="8" name="SPI1_NSS" type="bidirectional"/>
+        <pin num="9" name="SPI1_SCK" type="bidirectional"/>
+        <pin num="10" name="SPI1_MISO" type="bidirectional"/>
+        <pin num="11" name="SPI1_MOSI" type="bidirectional"/>
+        <pin num="12" name="I2C1_SCL" type="bidirectional"/>
+        <pin num="13" name="I2C1_SDA" type="bidirectional"/>
+        <pin num="14" name="USART1_TX" type="bidirectional"/>
+        <pin num="15" name="USART1_RX" type="bidirectional"/>
+        <pin num="16" name="AUDIO_IN_L" type="input"/>
+        <pin num="17" name="AUDIO_IN_R" type="input"/>
+        <pin num="18" name="AUDIO_OUT_L" type="output"/>
+        <pin num="19" name="AUDIO_OUT_R" type="output"/>
+        <pin num="20" name="AGND" type="passive"/>
+        <pin num="21" name="3V3_A" type="power_out"/>
+        <pin num="22" name="ADC_INP10" type="bidirectional"/>
+        <pin num="23" name="ADC_INP15" type="bidirectional"/>
+        <pin num="24" name="ADC_INP5" type="bidirectional"/>
+        <pin num="25" name="ADC_INP7" type="bidirectional"/>
+        <pin num="26" name="ADC_INP3" type="bidirectional"/>
+        <pin num="27" name="ADC_INP11" type="bidirectional"/>
+        <pin num="28" name="ADC1_INP4" type="bidirectional"/>
+        <pin num="29" name="DAC1_OUT2" type="bidirectional"/>
+        <pin num="30" name="DAC1_OUT1" type="bidirectional"/>
+        <pin num="31" name="SAI2_MCLK_B" type="bidirectional"/>
+        <pin num="32" name="SAI2_SD_B" type="bidirectional"/>
+        <pin num="33" name="SAI2_SD_A" type="bidirectional"/>
+        <pin num="34" name="SAI2_FS_B" type="bidirectional"/>
+        <pin num="35" name="SAI2_SCK_B" type="bidirectional"/>
+        <pin num="36" name="USB_HS_D_-" type="bidirectional"/>
+        <pin num="37" name="USB_HS_D_+" type="bidirectional"/>
+        <pin num="38" name="3V3_D" type="power_out"/>
+        <pin num="39" name="VIN" type="power_in"/>
+        <pin num="40" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Reference_Voltage" part="LM4040LP-10">
+      <description>10.00V Precision Micropower Shunt Voltage Reference, TO-92</description>
+      <docs>http://www.ti.com/lit/ds/symlink/lm4040-n.pdf</docs>
+      <footprints>
+        <fp>TO?92*Inline*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM4040LP-10</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-92_Inline</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/lm4040-n.pdf</field>
+      </fields>
+      <pins>
+        <pin num="2" name="K" type="passive"/>
+        <pin num="3" name="A" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Amplifier_Operational">
+      <uri>/usr/share/kicad/symbols//Amplifier_Operational.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Device_Audio_Electrosmith_Daisy_Seed">
+      <uri>/home/benjiao/kicad/kicad-electrosmith-daisy-seed/Device_Audio_Electrosmith_Daisy_Seed.lib</uri>
+    </library>
+    <library logical="Reference_Voltage">
+      <uri>/usr/share/kicad/symbols//Reference_Voltage.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+12V">
+      <node ref="A1" pin="39" pinfunction="VIN" pintype="power_in"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="J1" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="J1" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="TP1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="V+" pintype="power_in"/>
+    </net>
+    <net code="2" name="-12V">
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="TP2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="V-" pintype="power_in"/>
+    </net>
+    <net code="3" name="3V3_A">
+      <node ref="A1" pin="21" pinfunction="3V3_A" pintype="power_out"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="FEEDBACK_POT1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="LEVEL_POT1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="MOD_POT1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="TP5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="V+" pintype="power_in"/>
+    </net>
+    <net code="4" name="AREF_-10">
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="TP4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="5" name="CV1">
+      <node ref="A1" pin="25" pinfunction="ADC_INP7" pintype="bidirectional"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="U3" pin="1" pintype="output"/>
+    </net>
+    <net code="6" name="FEEDBACK">
+      <node ref="A1" pin="23" pinfunction="ADC_INP15" pintype="bidirectional"/>
+      <node ref="FEEDBACK_POT1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="7" name="GND">
+      <node ref="A1" pin="20" pinfunction="AGND" pintype="passive"/>
+      <node ref="A1" pin="40" pinfunction="GND" pintype="passive"/>
+      <node ref="AUDIO_IN1" pin="S" pintype="passive"/>
+      <node ref="AUDIO_OUT1" pin="S" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="CV1_IN1" pin="S" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="FEEDBACK_POT1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J1" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="J1" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="LEVEL_POT1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MOD_POT1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="+" pintype="input"/>
+      <node ref="U1" pin="12" pinfunction="+" pintype="input"/>
+      <node ref="U1" pin="3" pinfunction="+" pintype="input"/>
+      <node ref="U1" pin="5" pinfunction="+" pintype="input"/>
+      <node ref="U2" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="V-" pintype="power_in"/>
+      <node ref="U3" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="8" name="INT_AUDIO_IN1">
+      <node ref="A1" pin="16" pinfunction="AUDIO_IN_L" pintype="input"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="TP7" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="9" name="INT_AUDIO_OUT1">
+      <node ref="A1" pin="18" pinfunction="AUDIO_OUT_L" pintype="output"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="10" name="LEVEL">
+      <node ref="A1" pin="22" pinfunction="ADC_INP10" pintype="bidirectional"/>
+      <node ref="LEVEL_POT1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="11" name="MOD">
+      <node ref="A1" pin="24" pinfunction="ADC_INP5" pintype="bidirectional"/>
+      <node ref="MOD_POT1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(AUDIO_IN1-PadT)">
+      <node ref="AUDIO_IN1" pin="T" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(AUDIO_OUT1-PadT)">
+      <node ref="AUDIO_OUT1" pin="T" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pintype="output"/>
+    </net>
+    <net code="15" name="Net-(C1-Pad2)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="16" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U1" pin="8" pintype="output"/>
+    </net>
+    <net code="17" name="Net-(C2-Pad2)">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="18" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U1" pin="14" pintype="output"/>
+    </net>
+    <net code="19" name="Net-(C3-Pad2)">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="20" name="Net-(C4-Pad1)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U1" pin="7" pintype="output"/>
+    </net>
+    <net code="21" name="Net-(C4-Pad2)">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="22" name="Net-(C14-Pad2)">
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="23" name="Net-(CV1_IN1-PadT)">
+      <node ref="CV1_IN1" pin="T" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+    </net>
+    <net code="25" name="unconnected-(A1-Pad1)">
+      <node ref="A1" pin="1" pinfunction="USB_HS_ID" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="26" name="unconnected-(A1-Pad2)">
+      <node ref="A1" pin="2" pinfunction="SDMMC1_D3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="27" name="unconnected-(A1-Pad3)">
+      <node ref="A1" pin="3" pinfunction="SDMMC1_D2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="28" name="unconnected-(A1-Pad4)">
+      <node ref="A1" pin="4" pinfunction="SDMMC1_D1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="29" name="unconnected-(A1-Pad5)">
+      <node ref="A1" pin="5" pinfunction="SDMMC1_D0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="30" name="unconnected-(A1-Pad6)">
+      <node ref="A1" pin="6" pinfunction="SDMMC1_CMD" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="31" name="unconnected-(A1-Pad7)">
+      <node ref="A1" pin="7" pinfunction="SDMMC1_CK" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="32" name="unconnected-(A1-Pad8)">
+      <node ref="A1" pin="8" pinfunction="SPI1_NSS" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="33" name="unconnected-(A1-Pad9)">
+      <node ref="A1" pin="9" pinfunction="SPI1_SCK" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="34" name="unconnected-(A1-Pad10)">
+      <node ref="A1" pin="10" pinfunction="SPI1_MISO" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="35" name="unconnected-(A1-Pad11)">
+      <node ref="A1" pin="11" pinfunction="SPI1_MOSI" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="36" name="unconnected-(A1-Pad12)">
+      <node ref="A1" pin="12" pinfunction="I2C1_SCL" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="37" name="unconnected-(A1-Pad13)">
+      <node ref="A1" pin="13" pinfunction="I2C1_SDA" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="38" name="unconnected-(A1-Pad14)">
+      <node ref="A1" pin="14" pinfunction="USART1_TX" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="39" name="unconnected-(A1-Pad15)">
+      <node ref="A1" pin="15" pinfunction="USART1_RX" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="40" name="unconnected-(A1-Pad17)">
+      <node ref="A1" pin="17" pinfunction="AUDIO_IN_R" pintype="input+no_connect"/>
+    </net>
+    <net code="41" name="unconnected-(A1-Pad19)">
+      <node ref="A1" pin="19" pinfunction="AUDIO_OUT_R" pintype="output+no_connect"/>
+    </net>
+    <net code="42" name="unconnected-(A1-Pad26)">
+      <node ref="A1" pin="26" pinfunction="ADC_INP3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="43" name="unconnected-(A1-Pad27)">
+      <node ref="A1" pin="27" pinfunction="ADC_INP11" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="44" name="unconnected-(A1-Pad28)">
+      <node ref="A1" pin="28" pinfunction="ADC1_INP4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="45" name="unconnected-(A1-Pad29)">
+      <node ref="A1" pin="29" pinfunction="DAC1_OUT2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="46" name="unconnected-(A1-Pad30)">
+      <node ref="A1" pin="30" pinfunction="DAC1_OUT1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="47" name="unconnected-(A1-Pad31)">
+      <node ref="A1" pin="31" pinfunction="SAI2_MCLK_B" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="48" name="unconnected-(A1-Pad32)">
+      <node ref="A1" pin="32" pinfunction="SAI2_SD_B" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="49" name="unconnected-(A1-Pad33)">
+      <node ref="A1" pin="33" pinfunction="SAI2_SD_A" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="50" name="unconnected-(A1-Pad34)">
+      <node ref="A1" pin="34" pinfunction="SAI2_FS_B" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="51" name="unconnected-(A1-Pad35)">
+      <node ref="A1" pin="35" pinfunction="SAI2_SCK_B" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="52" name="unconnected-(A1-Pad36)">
+      <node ref="A1" pin="36" pinfunction="USB_HS_D_-" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="53" name="unconnected-(A1-Pad37)">
+      <node ref="A1" pin="37" pinfunction="USB_HS_D_+" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="54" name="unconnected-(A1-Pad38)">
+      <node ref="A1" pin="38" pinfunction="3V3_D" pintype="power_out+no_connect"/>
+    </net>
+    <net code="55" name="unconnected-(AUDIO_IN1-PadTN)">
+      <node ref="AUDIO_IN1" pin="TN" pintype="passive+no_connect"/>
+    </net>
+    <net code="56" name="unconnected-(AUDIO_OUT1-PadTN)">
+      <node ref="AUDIO_OUT1" pin="TN" pintype="passive+no_connect"/>
+    </net>
+    <net code="57" name="unconnected-(CV1_IN1-PadTN)">
+      <node ref="CV1_IN1" pin="TN" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>

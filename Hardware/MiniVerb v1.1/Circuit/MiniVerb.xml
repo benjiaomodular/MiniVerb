@@ -2,8 +2,8 @@
 <export version="E">
   <design>
     <source>/projects/synth/MiniVerb/Hardware/MiniVerb v1.1/Circuit/MiniVerb.kicad_sch</source>
-    <date>Friday, 10 February, 2023 08:59:30 PM</date>
-    <tool>Eeschema 6.0.10+dfsg-1~bpo11+1</tool>
+    <date>Friday, 17 February, 2023 03:55:51 PM</date>
+    <tool>Eeschema 6.0.11+dfsg-1~bpo11+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>
@@ -55,7 +55,13 @@
     <comp ref="AUDIO_IN1">
       <value>MONO_JACK</value>
       <footprint>benjiaomodular:AudioJack_3.5mm</footprint>
+      <fields>
+        <field name="Manufacturers Name">Tayda Electronics</field>
+        <field name="Manufacturers Part Number">PJ-3001F</field>
+      </fields>
       <libsource lib="Connector" part="AudioJack2_SwitchT" description="Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling)"/>
+      <property name="Manufacturers Name" value="Tayda Electronics"/>
+      <property name="Manufacturers Part Number" value="PJ-3001F"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -64,7 +70,13 @@
     <comp ref="AUDIO_IN2">
       <value>MONO_JACK</value>
       <footprint>benjiaomodular:AudioJack_3.5mm</footprint>
+      <fields>
+        <field name="Manufacturers Name">Tayda Electronics</field>
+        <field name="Manufacturers Part Number">PJ-3001F</field>
+      </fields>
       <libsource lib="Connector" part="AudioJack2_SwitchT" description="Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling)"/>
+      <property name="Manufacturers Name" value="Tayda Electronics"/>
+      <property name="Manufacturers Part Number" value="PJ-3001F"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -73,7 +85,13 @@
     <comp ref="AUDIO_OUT1">
       <value>MONO_JACK</value>
       <footprint>benjiaomodular:AudioJack_3.5mm</footprint>
+      <fields>
+        <field name="Manufacturers Name">Tayda Electronics</field>
+        <field name="Manufacturers Part Number">PJ-3001F</field>
+      </fields>
       <libsource lib="Connector" part="AudioJack2_SwitchT" description="Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling)"/>
+      <property name="Manufacturers Name" value="Tayda Electronics"/>
+      <property name="Manufacturers Part Number" value="PJ-3001F"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -82,7 +100,13 @@
     <comp ref="AUDIO_OUT2">
       <value>MONO_JACK</value>
       <footprint>benjiaomodular:AudioJack_3.5mm</footprint>
+      <fields>
+        <field name="Manufacturers Name">Tayda Electronics</field>
+        <field name="Manufacturers Part Number">PJ-3001F</field>
+      </fields>
       <libsource lib="Connector" part="AudioJack2_SwitchT" description="Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling)"/>
+      <property name="Manufacturers Name" value="Tayda Electronics"/>
+      <property name="Manufacturers Part Number" value="PJ-3001F"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -91,7 +115,13 @@
     <comp ref="C1">
       <value>47pF</value>
       <footprint>benjiaomodular:Capacitor_Disc_D3.8mm_W2.6mm_P2.50mm</footprint>
+      <fields>
+        <field name="Manufacturers Name">Murata Electronics</field>
+        <field name="Manufacturers Part Number">RDE5C2A470J0M1H03A</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturers Name" value="Murata Electronics"/>
+      <property name="Manufacturers Part Number" value="RDE5C2A470J0M1H03A"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -100,16 +130,30 @@
     <comp ref="C2">
       <value>47pF</value>
       <footprint>benjiaomodular:Capacitor_Disc_D3.8mm_W2.6mm_P2.50mm</footprint>
+      <fields>
+        <field name="Manufacturers Name">Murata Electronics</field>
+        <field name="Manufacturers Part Number">RDE5C2A470J0M1H03A</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturers Name" value="Murata Electronics"/>
+      <property name="Manufacturers Part Number" value="RDE5C2A470J0M1H03A"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006315e72e</tstamps>
     </comp>
     <comp ref="C3">
-      <value>580pF</value>
+      <value>680pF</value>
       <footprint>benjiaomodular:Capacitor_Rect_L7.2mm_W2.5mm_P5.00mm</footprint>
+      <fields>
+        <field name="Manufacturers Name">Murata Electronics</field>
+        <field name="Manufacturers Part Number">RCE7U2J681J2M1H03A</field>
+        <field name="Part Description">Replaced 580pF from original circuit</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturers Name" value="Murata Electronics"/>
+      <property name="Manufacturers Part Number" value="RCE7U2J681J2M1H03A"/>
+      <property name="Part Description" value="Replaced 580pF from original circuit"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -118,7 +162,13 @@
     <comp ref="C4">
       <value>47pF</value>
       <footprint>benjiaomodular:Capacitor_Disc_D3.8mm_W2.6mm_P2.50mm</footprint>
+      <fields>
+        <field name="Manufacturers Name">Murata Electronics</field>
+        <field name="Manufacturers Part Number">RDE5C2A470J0M1H03A</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturers Name" value="Murata Electronics"/>
+      <property name="Manufacturers Part Number" value="RDE5C2A470J0M1H03A"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -127,16 +177,30 @@
     <comp ref="C5">
       <value>47pF</value>
       <footprint>benjiaomodular:Capacitor_Disc_D3.8mm_W2.6mm_P2.50mm</footprint>
+      <fields>
+        <field name="Manufacturers Name">Murata Electronics</field>
+        <field name="Manufacturers Part Number">RDE5C2A470J0M1H03A</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturers Name" value="Murata Electronics"/>
+      <property name="Manufacturers Part Number" value="RDE5C2A470J0M1H03A"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>733b29f2-b9ae-41d0-819b-015a9da4966c</tstamps>
     </comp>
     <comp ref="C6">
-      <value>580pF</value>
+      <value>680pF</value>
       <footprint>benjiaomodular:Capacitor_Rect_L7.2mm_W2.5mm_P5.00mm</footprint>
+      <fields>
+        <field name="Manufacturers Name">Murata Electronics</field>
+        <field name="Manufacturers Part Number">RCE7U2J681J2M1H03A</field>
+        <field name="Part Description">Replaced 580pF from original circuit</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturers Name" value="Murata Electronics"/>
+      <property name="Manufacturers Part Number" value="RCE7U2J681J2M1H03A"/>
+      <property name="Part Description" value="Replaced 580pF from original circuit"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -145,7 +209,13 @@
     <comp ref="C7">
       <value>47pF</value>
       <footprint>benjiaomodular:Capacitor_Disc_D3.8mm_W2.6mm_P2.50mm</footprint>
+      <fields>
+        <field name="Manufacturers Name">Murata Electronics</field>
+        <field name="Manufacturers Part Number">RDE5C2A470J0M1H03A</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturers Name" value="Murata Electronics"/>
+      <property name="Manufacturers Part Number" value="RDE5C2A470J0M1H03A"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -154,7 +224,13 @@
     <comp ref="C8">
       <value>47pF</value>
       <footprint>benjiaomodular:Capacitor_Disc_D3.8mm_W2.6mm_P2.50mm</footprint>
+      <fields>
+        <field name="Manufacturers Name">Murata Electronics</field>
+        <field name="Manufacturers Part Number">RDE5C2A470J0M1H03A</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturers Name" value="Murata Electronics"/>
+      <property name="Manufacturers Part Number" value="RDE5C2A470J0M1H03A"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -163,7 +239,13 @@
     <comp ref="POT_DRY1">
       <value>B10K</value>
       <footprint>benjiaomodular:Potentiometer_RV09</footprint>
+      <fields>
+        <field name="Manufacturers Name">Alpha (Taiwan)</field>
+        <field name="Manufacturers Part Number">RD901F-40-15R1-B10K</field>
+      </fields>
       <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Manufacturers Name" value="Alpha (Taiwan)"/>
+      <property name="Manufacturers Part Number" value="RD901F-40-15R1-B10K"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -172,7 +254,13 @@
     <comp ref="POT_FBK1">
       <value>B10K</value>
       <footprint>benjiaomodular:Potentiometer_RV09</footprint>
+      <fields>
+        <field name="Manufacturers Name">Alpha (Taiwan)</field>
+        <field name="Manufacturers Part Number">RD901F-40-15R1-B10K</field>
+      </fields>
       <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Manufacturers Name" value="Alpha (Taiwan)"/>
+      <property name="Manufacturers Part Number" value="RD901F-40-15R1-B10K"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -181,7 +269,13 @@
     <comp ref="POT_LPF1">
       <value>B10K</value>
       <footprint>benjiaomodular:Potentiometer_RV09</footprint>
+      <fields>
+        <field name="Manufacturers Name">Alpha (Taiwan)</field>
+        <field name="Manufacturers Part Number">RD901F-40-15R1-B10K</field>
+      </fields>
       <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Manufacturers Name" value="Alpha (Taiwan)"/>
+      <property name="Manufacturers Part Number" value="RD901F-40-15R1-B10K"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -190,7 +284,13 @@
     <comp ref="POT_MOD1">
       <value>B10K</value>
       <footprint>benjiaomodular:Potentiometer_RV09</footprint>
+      <fields>
+        <field name="Manufacturers Name">Alpha (Taiwan)</field>
+        <field name="Manufacturers Part Number">RD901F-40-15R1-B10K</field>
+      </fields>
       <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Manufacturers Name" value="Alpha (Taiwan)"/>
+      <property name="Manufacturers Part Number" value="RD901F-40-15R1-B10K"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -199,7 +299,13 @@
     <comp ref="POT_WET1">
       <value>B10K</value>
       <footprint>benjiaomodular:Potentiometer_RV09</footprint>
+      <fields>
+        <field name="Manufacturers Name">Alpha (Taiwan)</field>
+        <field name="Manufacturers Part Number">RD901F-40-15R1-B10K</field>
+      </fields>
       <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Manufacturers Name" value="Alpha (Taiwan)"/>
+      <property name="Manufacturers Part Number" value="RD901F-40-15R1-B10K"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -208,7 +314,13 @@
     <comp ref="R1">
       <value>10k</value>
       <footprint>benjiaomodular:Resistor_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <fields>
+        <field name="Manufacturers Name">KOA Speer</field>
+        <field name="Manufacturers Part Number">MF1/4DC1002F</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturers Name" value="KOA Speer"/>
+      <property name="Manufacturers Part Number" value="MF1/4DC1002F"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -217,7 +329,13 @@
     <comp ref="R2">
       <value>100k</value>
       <footprint>benjiaomodular:Resistor_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <fields>
+        <field name="Manufacturers Name">Vishay / Dale</field>
+        <field name="Manufacturers Part Number">CCF55100KFKE36</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturers Name" value="Vishay / Dale"/>
+      <property name="Manufacturers Part Number" value="CCF55100KFKE36"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -226,7 +344,13 @@
     <comp ref="R3">
       <value>100k</value>
       <footprint>benjiaomodular:Resistor_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <fields>
+        <field name="Manufacturers Name">Vishay / Dale</field>
+        <field name="Manufacturers Part Number">CCF55100KFKE36</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturers Name" value="Vishay / Dale"/>
+      <property name="Manufacturers Part Number" value="CCF55100KFKE36"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -235,7 +359,13 @@
     <comp ref="R4">
       <value>100k</value>
       <footprint>benjiaomodular:Resistor_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <fields>
+        <field name="Manufacturers Name">Vishay / Dale</field>
+        <field name="Manufacturers Part Number">CCF55100KFKE36</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturers Name" value="Vishay / Dale"/>
+      <property name="Manufacturers Part Number" value="CCF55100KFKE36"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -244,7 +374,13 @@
     <comp ref="R5">
       <value>100k</value>
       <footprint>benjiaomodular:Resistor_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <fields>
+        <field name="Manufacturers Name">Vishay / Dale</field>
+        <field name="Manufacturers Part Number">CCF55100KFKE36</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturers Name" value="Vishay / Dale"/>
+      <property name="Manufacturers Part Number" value="CCF55100KFKE36"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -253,7 +389,13 @@
     <comp ref="R6">
       <value>100k</value>
       <footprint>benjiaomodular:Resistor_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <fields>
+        <field name="Manufacturers Name">Vishay / Dale</field>
+        <field name="Manufacturers Part Number">CCF55100KFKE36</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturers Name" value="Vishay / Dale"/>
+      <property name="Manufacturers Part Number" value="CCF55100KFKE36"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -262,7 +404,13 @@
     <comp ref="R7">
       <value>10k</value>
       <footprint>benjiaomodular:Resistor_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <fields>
+        <field name="Manufacturers Name">KOA Speer</field>
+        <field name="Manufacturers Part Number">MF1/4DC1002F</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturers Name" value="KOA Speer"/>
+      <property name="Manufacturers Part Number" value="MF1/4DC1002F"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -271,7 +419,13 @@
     <comp ref="R8">
       <value>100k</value>
       <footprint>benjiaomodular:Resistor_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <fields>
+        <field name="Manufacturers Name">Vishay / Dale</field>
+        <field name="Manufacturers Part Number">CCF55100KFKE36</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturers Name" value="Vishay / Dale"/>
+      <property name="Manufacturers Part Number" value="CCF55100KFKE36"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -280,7 +434,13 @@
     <comp ref="R9">
       <value>1k</value>
       <footprint>benjiaomodular:Resistor_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <fields>
+        <field name="Manufacturers Name">KOA Speer</field>
+        <field name="Manufacturers Part Number">MF1/4DCT26A1001F</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturers Name" value="KOA Speer"/>
+      <property name="Manufacturers Part Number" value="MF1/4DCT26A1001F"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -289,7 +449,13 @@
     <comp ref="R10">
       <value>1k</value>
       <footprint>benjiaomodular:Resistor_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <fields>
+        <field name="Manufacturers Name">KOA Speer</field>
+        <field name="Manufacturers Part Number">MF1/4DCT26A1001F</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturers Name" value="KOA Speer"/>
+      <property name="Manufacturers Part Number" value="MF1/4DCT26A1001F"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -298,7 +464,13 @@
     <comp ref="R11">
       <value>100k</value>
       <footprint>benjiaomodular:Resistor_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <fields>
+        <field name="Manufacturers Name">Vishay / Dale</field>
+        <field name="Manufacturers Part Number">CCF55100KFKE36</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturers Name" value="Vishay / Dale"/>
+      <property name="Manufacturers Part Number" value="CCF55100KFKE36"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -307,7 +479,13 @@
     <comp ref="R12">
       <value>100k</value>
       <footprint>benjiaomodular:Resistor_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <fields>
+        <field name="Manufacturers Name">Vishay / Dale</field>
+        <field name="Manufacturers Part Number">CCF55100KFKE36</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturers Name" value="Vishay / Dale"/>
+      <property name="Manufacturers Part Number" value="CCF55100KFKE36"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -316,7 +494,13 @@
     <comp ref="R13">
       <value>100k</value>
       <footprint>benjiaomodular:Resistor_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <fields>
+        <field name="Manufacturers Name">Vishay / Dale</field>
+        <field name="Manufacturers Part Number">CCF55100KFKE36</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturers Name" value="Vishay / Dale"/>
+      <property name="Manufacturers Part Number" value="CCF55100KFKE36"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -325,7 +509,13 @@
     <comp ref="R14">
       <value>10k</value>
       <footprint>benjiaomodular:Resistor_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <fields>
+        <field name="Manufacturers Name">KOA Speer</field>
+        <field name="Manufacturers Part Number">MF1/4DC1002F</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturers Name" value="KOA Speer"/>
+      <property name="Manufacturers Part Number" value="MF1/4DC1002F"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -334,7 +524,13 @@
     <comp ref="R15">
       <value>1k</value>
       <footprint>benjiaomodular:Resistor_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <fields>
+        <field name="Manufacturers Name">KOA Speer</field>
+        <field name="Manufacturers Part Number">MF1/4DCT26A1001F</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturers Name" value="KOA Speer"/>
+      <property name="Manufacturers Part Number" value="MF1/4DCT26A1001F"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -343,7 +539,13 @@
     <comp ref="R16">
       <value>10k</value>
       <footprint>benjiaomodular:Resistor_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <fields>
+        <field name="Manufacturers Name">KOA Speer</field>
+        <field name="Manufacturers Part Number">MF1/4DC1002F</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturers Name" value="KOA Speer"/>
+      <property name="Manufacturers Part Number" value="MF1/4DC1002F"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -352,7 +554,13 @@
     <comp ref="R17">
       <value>100k</value>
       <footprint>benjiaomodular:Resistor_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <fields>
+        <field name="Manufacturers Name">Vishay / Dale</field>
+        <field name="Manufacturers Part Number">CCF55100KFKE36</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturers Name" value="Vishay / Dale"/>
+      <property name="Manufacturers Part Number" value="CCF55100KFKE36"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -361,7 +569,13 @@
     <comp ref="R18">
       <value>100k</value>
       <footprint>benjiaomodular:Resistor_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <fields>
+        <field name="Manufacturers Name">Vishay / Dale</field>
+        <field name="Manufacturers Part Number">CCF55100KFKE36</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturers Name" value="Vishay / Dale"/>
+      <property name="Manufacturers Part Number" value="CCF55100KFKE36"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -370,7 +584,13 @@
     <comp ref="R19">
       <value>100k</value>
       <footprint>benjiaomodular:Resistor_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <fields>
+        <field name="Manufacturers Name">Vishay / Dale</field>
+        <field name="Manufacturers Part Number">CCF55100KFKE36</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturers Name" value="Vishay / Dale"/>
+      <property name="Manufacturers Part Number" value="CCF55100KFKE36"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -379,7 +599,13 @@
     <comp ref="R20">
       <value>1k</value>
       <footprint>benjiaomodular:Resistor_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <fields>
+        <field name="Manufacturers Name">KOA Speer</field>
+        <field name="Manufacturers Part Number">MF1/4DCT26A1001F</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturers Name" value="KOA Speer"/>
+      <property name="Manufacturers Part Number" value="MF1/4DCT26A1001F"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -389,7 +615,13 @@
       <value>TL074</value>
       <footprint>Package_DIP:DIP-14_W7.62mm</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/tl071.pdf</datasheet>
+      <fields>
+        <field name="Manufacturers Name">Texas Instruments</field>
+        <field name="Manufacturers Part Number">TL074BCN</field>
+      </fields>
       <libsource lib="Amplifier_Operational" part="TL074" description="Quad Low-Noise JFET-Input Operational Amplifiers, DIP-14/SOIC-14"/>
+      <property name="Manufacturers Name" value="Texas Instruments"/>
+      <property name="Manufacturers Part Number" value="TL074BCN"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -399,7 +631,13 @@
       <value>TL074</value>
       <footprint>Package_DIP:DIP-14_W7.62mm</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/tl071.pdf</datasheet>
+      <fields>
+        <field name="Manufacturers Name">Texas Instruments</field>
+        <field name="Manufacturers Part Number">TL074BCN</field>
+      </fields>
       <libsource lib="Amplifier_Operational" part="TL074" description="Quad Low-Noise JFET-Input Operational Amplifiers, DIP-14/SOIC-14"/>
+      <property name="Manufacturers Name" value="Texas Instruments"/>
+      <property name="Manufacturers Part Number" value="TL074BCN"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="MiniVerb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -408,7 +646,13 @@
     <comp ref="C9">
       <value>100uF</value>
       <footprint>benjiaomodular:Capacitor_Radial_D5.0mm_P2.5mm</footprint>
+      <fields>
+        <field name="Manufacturers Name">KEMET</field>
+        <field name="Manufacturers Part Number">ESH107M010AC3AA</field>
+      </fields>
       <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Manufacturers Name" value="KEMET"/>
+      <property name="Manufacturers Part Number" value="ESH107M010AC3AA"/>
       <property name="Sheetname" value="Power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/Power/" tstamps="/2522eff5-50b2-4784-ac57-6a26114defef/"/>
@@ -417,7 +661,13 @@
     <comp ref="C10">
       <value>100uF</value>
       <footprint>benjiaomodular:Capacitor_Radial_D5.0mm_P2.5mm</footprint>
+      <fields>
+        <field name="Manufacturers Name">KEMET</field>
+        <field name="Manufacturers Part Number">ESH107M010AC3AA</field>
+      </fields>
       <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Manufacturers Name" value="KEMET"/>
+      <property name="Manufacturers Part Number" value="ESH107M010AC3AA"/>
       <property name="Sheetname" value="Power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/Power/" tstamps="/2522eff5-50b2-4784-ac57-6a26114defef/"/>
@@ -426,7 +676,13 @@
     <comp ref="C11">
       <value>100nF</value>
       <footprint>benjiaomodular:Capacitor_Rect_L7.2mm_W2.5mm_P5.00mm</footprint>
+      <fields>
+        <field name="Manufacturers Name">KEMET</field>
+        <field name="Manufacturers Part Number">MMK5104K50J01L4BULK</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturers Name" value="KEMET"/>
+      <property name="Manufacturers Part Number" value="MMK5104K50J01L4BULK"/>
       <property name="Sheetname" value="Power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/Power/" tstamps="/2522eff5-50b2-4784-ac57-6a26114defef/"/>
@@ -435,7 +691,13 @@
     <comp ref="C12">
       <value>100nF</value>
       <footprint>benjiaomodular:Capacitor_Rect_L7.2mm_W2.5mm_P5.00mm</footprint>
+      <fields>
+        <field name="Manufacturers Name">KEMET</field>
+        <field name="Manufacturers Part Number">MMK5104K50J01L4BULK</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturers Name" value="KEMET"/>
+      <property name="Manufacturers Part Number" value="MMK5104K50J01L4BULK"/>
       <property name="Sheetname" value="Power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/Power/" tstamps="/2522eff5-50b2-4784-ac57-6a26114defef/"/>
@@ -444,7 +706,13 @@
     <comp ref="C13">
       <value>100nF</value>
       <footprint>benjiaomodular:Capacitor_Rect_L7.2mm_W2.5mm_P5.00mm</footprint>
+      <fields>
+        <field name="Manufacturers Name">KEMET</field>
+        <field name="Manufacturers Part Number">MMK5104K50J01L4BULK</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturers Name" value="KEMET"/>
+      <property name="Manufacturers Part Number" value="MMK5104K50J01L4BULK"/>
       <property name="Sheetname" value="Power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/Power/" tstamps="/2522eff5-50b2-4784-ac57-6a26114defef/"/>
@@ -453,7 +721,13 @@
     <comp ref="C14">
       <value>100nF</value>
       <footprint>benjiaomodular:Capacitor_Rect_L7.2mm_W2.5mm_P5.00mm</footprint>
+      <fields>
+        <field name="Manufacturers Name">KEMET</field>
+        <field name="Manufacturers Part Number">MMK5104K50J01L4BULK</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturers Name" value="KEMET"/>
+      <property name="Manufacturers Part Number" value="MMK5104K50J01L4BULK"/>
       <property name="Sheetname" value="Power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/Power/" tstamps="/2522eff5-50b2-4784-ac57-6a26114defef/"/>
@@ -512,21 +786,19 @@
       <footprint>benjiaomodular:Resistor_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
       <fields>
         <field name="LCSC Part #">C116677</field>
-        <field name="Manufacturers Name">YAGEO</field>
-        <field name="Manufacturers Part Number">AC0603FR-0710KL</field>
+        <field name="Manufacturers Name">KOA Speer</field>
+        <field name="Manufacturers Part Number">MF1/4DC1002F</field>
         <field name="Mfg #">AC0603FR-0710KL</field>
-        <field name="Package">0603</field>
-        <field name="Part Description">Thick Film Resistors - SMD 10 kOhms 100mW 0603 1% AEC-Q200 </field>
         <field name="Type">Surface mount</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC Part #" value="C116677"/>
       <property name="Mfg #" value="AC0603FR-0710KL"/>
-      <property name="Manufacturers Part Number" value="AC0603FR-0710KL"/>
-      <property name="Manufacturers Name" value="YAGEO"/>
-      <property name="Package" value="0603"/>
+      <property name="Manufacturers Part Number" value="MF1/4DC1002F"/>
+      <property name="Manufacturers Name" value="KOA Speer"/>
+      <property name="Package" value=""/>
       <property name="Type" value="Surface mount"/>
-      <property name="Part Description" value="Thick Film Resistors - SMD 10 kOhms 100mW 0603 1% AEC-Q200 "/>
+      <property name="Part Description" value=""/>
       <property name="Sheetname" value="Power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/Power/" tstamps="/2522eff5-50b2-4784-ac57-6a26114defef/"/>
