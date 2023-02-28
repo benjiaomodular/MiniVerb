@@ -8,8 +8,6 @@ size_t num_channels;
 float sample_rate;
 
 ReverbSc DSY_SDRAM_BSS verb;
-static Jitter jitter;
-Svf flt;
 
 float level, feedback, mod, cv1;
 
@@ -20,7 +18,6 @@ float CtrlVal(uint8_t pin) {
 
 void MyCallback(float **in, float **out, size_t size) {
   float dryIn, verbOut;
-  float jitter_out;
 
   for (size_t i = 0; i < size; i++) {
     dryIn = in[0][i];
@@ -47,13 +44,11 @@ void setup() {
 
 void loop() {
   level = CtrlVal(A0); // pin 22
-
   feedback = CtrlVal(A1); // pin 23
-
   mod = CtrlVal(A2); // pin 24
-  cv1 = CtrlVal(A3); // pin 25
+//  cv1 = CtrlVal(A3); // pin 25
 
-  level = 1 - cv1; // pin 22
+//  level = 1 - cv1; // pin 22
   verb.SetFeedback(0.8 + 0.2 * feedback);
-//  verb.SetLpFreq((1 - cv1) * 18000.0f);
+  verb.SetLpFreq(mod * 20000.0f);
 }
