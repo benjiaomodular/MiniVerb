@@ -1,3 +1,4 @@
+// For benjiaomodular MiniVerb v2.x
 // Based on reverbsc by Stephen Hensley
 
 #include "DaisyDuino.h"
@@ -8,8 +9,9 @@ size_t num_channels;
 float sample_rate;
 
 ReverbSc DSY_SDRAM_BSS verb;
+static Jitter jitter;
 
-float level, feedback, mod, cv1;
+float level, feedback, mod, cv1, jitterMixKnob;
 
 float CtrlVal(uint8_t pin) {
   analogReadResolution(16);
@@ -18,11 +20,15 @@ float CtrlVal(uint8_t pin) {
 
 void MyCallback(float **in, float **out, size_t size) {
   float dryIn, verbOut;
+  float jitter_out;
 
   for (size_t i = 0; i < size; i++) {
     dryIn = in[0][i];
+    jitter_out = jitter.Process();
+    
     verb.Process(dryIn, 0, &verbOut, 0);
-    out[0][i] = dryIn + verbOut * level;
+    out[0][i] = dryIn + verbOut * ((1 - cv1) + (jitter_out * cv1)) * level;
+
   }
 }
 
@@ -38,6 +44,11 @@ void setup() {
   verb.SetFeedback(0.95f);
   verb.SetLpFreq(18000.0f);
 
+  jitter.Init(sample_rate);
+  jitter.SetAmp(1);
+  jitter.SetCpsMin(1);
+  jitter.SetCpsMax(25);
+
   level = 0.1f;
   DAISY.begin(MyCallback);
 }
@@ -46,9 +57,8 @@ void loop() {
   level = CtrlVal(A0); // pin 22
   feedback = CtrlVal(A1); // pin 23
   mod = CtrlVal(A2); // pin 24
-//  cv1 = CtrlVal(A3); // pin 25
-
-//  level = 1 - cv1; // pin 22
+  cv1 = 1-CtrlVal(A4); // pin 26
+ 
   verb.SetFeedback(0.8 + 0.2 * feedback);
   verb.SetLpFreq(mod * 20000.0f);
 }
