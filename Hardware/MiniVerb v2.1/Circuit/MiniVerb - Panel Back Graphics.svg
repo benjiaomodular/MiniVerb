@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="MiniVerb - Panel Back Graphics.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <defs
+     id="defs2">
+    <rect
+       x="50.171189"
+       y="76.328432"
+       width="16.124033"
+       height="42.865033"
+       id="rect1966" />
+    <rect
+       x="58.971641"
+       y="131.93472"
+       width="28.753521"
+       height="132.84131"
+       id="rect2831" />
+    <rect
+       x="-121.849"
+       y="15.162978"
+       width="68.810815"
+       height="116.82861"
+       id="rect2496" />
+    <rect
+       x="176.70015"
+       y="152.83233"
+       width="57.834671"
+       height="157.00689"
+       id="rect1111" />
+    <rect
+       x="50.171189"
+       y="76.328432"
+       width="16.124033"
+       height="42.865033"
+       id="rect1966-8" />
+    <rect
+       x="58.971641"
+       y="131.93472"
+       width="28.753521"
+       height="132.84131"
+       id="rect2831-7" />
+    <rect
+       x="50.171189"
+       y="76.328432"
+       width="16.124033"
+       height="42.865033"
+       id="rect1966-1" />
+    <rect
+       x="58.971641"
+       y="131.93472"
+       width="28.753521"
+       height="132.84131"
+       id="rect2831-5" />
+    <rect
+       x="50.171189"
+       y="76.328432"
+       width="16.124033"
+       height="42.865033"
+       id="rect1966-5" />
+    <rect
+       x="58.971641"
+       y="131.93472"
+       width="28.753521"
+       height="132.84131"
+       id="rect2831-4" />
+    <rect
+       x="50.171189"
+       y="76.328432"
+       width="16.124033"
+       height="42.865033"
+       id="rect1966-3" />
+    <rect
+       x="58.971641"
+       y="131.93472"
+       width="28.753521"
+       height="132.84131"
+       id="rect2831-6" />
+    <rect
+       x="50.171189"
+       y="76.328432"
+       width="16.124033"
+       height="42.865033"
+       id="rect1966-7" />
+    <rect
+       x="58.971641"
+       y="131.93472"
+       width="28.753521"
+       height="132.84131"
+       id="rect2831-67" />
+    <rect
+       x="-121.849"
+       y="15.162978"
+       width="68.810814"
+       height="116.82861"
+       id="rect2496-9" />
+    <rect
+       x="-121.849"
+       y="15.162978"
+       width="68.810814"
+       height="116.82861"
+       id="rect2943" />
+    <rect
+       x="-121.849"
+       y="15.162978"
+       width="68.810814"
+       height="116.82861"
+       id="rect2496-9-4" />
+    <rect
+       x="-121.849"
+       y="15.162978"
+       width="68.810814"
+       height="116.82861"
+       id="rect3258" />
+    <rect
+       x="176.70015"
+       y="152.83234"
+       width="57.834671"
+       height="157.0069"
+       id="rect1111-3" />
+    <rect
+       x="176.70015"
+       y="152.83234"
+       width="57.834671"
+       height="157.0069"
+       id="rect2585" />
+    <rect
+       x="58.971642"
+       y="131.93472"
+       width="28.753521"
+       height="132.84131"
+       id="rect2831-67-5" />
+    <rect
+       x="58.971642"
+       y="131.93472"
+       width="28.753521"
+       height="132.84131"
+       id="rect2588" />
+    <rect
+       x="50.171188"
+       y="76.32843"
+       width="16.124033"
+       height="42.865032"
+       id="rect1966-7-7" />
+    <rect
+       x="50.171188"
+       y="76.32843"
+       width="16.124033"
+       height="42.865032"
+       id="rect2591" />
+    <rect
+       x="58.971642"
+       y="131.93472"
+       width="28.753521"
+       height="132.84131"
+       id="rect2831-5-0" />
+    <rect
+       x="58.971642"
+       y="131.93472"
+       width="28.753521"
+       height="132.84131"
+       id="rect2594" />
+    <rect
+       x="50.171188"
+       y="76.32843"
+       width="16.124033"
+       height="42.865032"
+       id="rect1966-1-8" />
+    <rect
+       x="50.171188"
+       y="76.32843"
+       width="16.124033"
+       height="42.865032"
+       id="rect2597" />
+    <rect
+       x="58.971642"
+       y="131.93472"
+       width="28.753521"
+       height="132.84131"
+       id="rect2831-7-1" />
+    <rect
+       x="58.971642"
+       y="131.93472"
+       width="28.753521"
+       height="132.84131"
+       id="rect2600" />
+    <rect
+       x="50.171188"
+       y="76.32843"
+       width="16.124033"
+       height="42.865032"
+       id="rect1966-8-9" />
+    <rect
+       x="50.171188"
+       y="76.32843"
+       width="16.124033"
+       height="42.865032"
+       id="rect2603" />
+    <rect
+       x="176.70015"
+       y="152.83234"
+       width="57.834671"
+       height="157.0069"
+       id="rect1111-7" />
+    <rect
+       x="176.70015"
+       y="152.83234"
+       width="57.834671"
+       height="157.0069"
+       id="rect1321" />
+    <rect
+       x="58.971642"
+       y="131.93472"
+       width="28.753521"
+       height="132.84131"
+       id="rect2831-67-0" />
+    <rect
+       x="58.971642"
+       y="131.93472"
+       width="28.753521"
+       height="132.84131"
+       id="rect1324" />
+    <rect
+       x="50.171188"
+       y="76.32843"
+       width="16.124033"
+       height="42.865032"
+       id="rect1966-7-9" />
+    <rect
+       x="50.171188"
+       y="76.32843"
+       width="16.124033"
+       height="42.865032"
+       id="rect1327" />
+    <rect
+       x="58.971642"
+       y="131.93472"
+       width="28.753521"
+       height="132.84131"
+       id="rect2831-5-3" />
+    <rect
+       x="58.971642"
+       y="131.93472"
+       width="28.753521"
+       height="132.84131"
+       id="rect1330" />
+    <rect
+       x="50.171188"
+       y="76.32843"
+       width="16.124033"
+       height="42.865032"
+       id="rect1966-1-6" />
+    <rect
+       x="50.171188"
+       y="76.32843"
+       width="16.124033"
+       height="42.865032"
+       id="rect1333" />
+    <rect
+       x="58.971642"
+       y="131.93472"
+       width="28.753521"
+       height="132.84131"
+       id="rect2831-7-0" />
+    <rect
+       x="58.971642"
+       y="131.93472"
+       width="28.753521"
+       height="132.84131"
+       id="rect1336" />
+    <rect
+       x="50.171188"
+       y="76.32843"
+       width="16.124033"
+       height="42.865032"
+       id="rect1966-8-6" />
+    <rect
+       x="50.171188"
+       y="76.32843"
+       width="16.124033"
+       height="42.865032"
+       id="rect1339" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.190625"
+     inkscape:cx="20.829167"
+     inkscape:cy="291.26398"
+     inkscape:document-units="mm"
+     inkscape:current-layer="text2853-9-4-8-3"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     inkscape:window-width="2560"
+     inkscape:window-height="1376"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid997"
+       units="mm"
+       spacingx="0.1"
+       spacingy="0.1" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="Component Markers"
+     style="display:inline">
+    <g
+       id="text4632-4-6-9-0-9-90-3-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';letter-spacing:-0.132292px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       inkscape:transform-center-x="0.51790812"
+       inkscape:transform-center-y="-0.71836026" />
+    <g
+       id="g2051"
+       transform="translate(9.4999998)" />
+    <g
+       id="g1286-2"
+       transform="translate(25.756829,-28.495299)" />
+    <g
+       id="layer6-0-5"
+       inkscape:label="Cut Lines"
+       style="display:inline"
+       transform="translate(162)" />
+    <g
+       id="layer5-2-8"
+       inkscape:label="Labels"
+       style="display:none"
+       transform="translate(162)">
+      <g
+         inkscape:groupmode="layer"
+         id="layer10-7-2"
+         inkscape:label="Graphic"
+         style="display:none" />
+    </g>
+    <g
+       id="g2284"
+       transform="translate(-120)">
+      <g
+         aria-label="benjiaomodular"
+         transform="rotate(90)"
+         id="text2853-9-4-8-3"
+         style="font-style:normal;font-weight:normal;font-size:40.4785px;line-height:1.25;font-family:sans-serif;letter-spacing:-0.30359px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264585">
+        <path
+           id="path1821"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.4929px;font-family:'Exo 2';-inkscape-font-specification:'Exo 2, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;stroke-width:1.00001"
+           d="M 11.373047 0 C 11.033066 0.78195075 10.726902 1.7167561 10.455078 2.8046875 C 10.217169 3.8926189 10.030594 5.0307781 9.8945312 6.2207031 C 9.7244525 7.444626 9.6051409 8.6350884 9.5371094 9.7910156 C 9.4350621 10.946943 9.3828125 11.967618 9.3828125 12.851562 C 9.3828125 15.401402 9.7055908 17.474366 10.351562 19.072266 C 11.031525 20.670165 11.966329 21.910978 13.15625 22.794922 C 14.380162 23.712864 15.809507 24.341662 17.441406 24.681641 C 19.073305 25.055617 20.857032 25.244141 22.794922 25.244141 C 27.45261 25.244141 30.785145 24.512689 32.791016 23.050781 C 34.830902 21.622871 35.851562 19.241946 35.851562 15.910156 C 35.851562 14.686233 35.629478 13.497724 35.1875 12.341797 C 34.779538 11.18587 34.201094 10.098061 33.453125 9.078125 C 32.893638 8.3151791 32.259569 7.6009139 31.585938 6.9140625 C 32.435789 7.13859 33.294768 7.3100273 34.167969 7.3945312 C 35.255893 7.5305237 36.377272 7.5976562 37.533203 7.5976562 L 45.693359 7.546875 L 45.693359 0 L 11.373047 0 z M 27.808594 7.5019531 C 28.36226 8.3371829 28.851324 9.1294213 29.220703 9.8417969 C 29.696672 10.759739 29.935547 11.780414 29.935547 12.902344 C 29.935547 14.092269 29.713462 15.010291 29.271484 15.65625 C 28.863522 16.336208 28.134012 16.795219 27.080078 17.033203 C 26.060135 17.305186 24.614024 17.441406 22.744141 17.441406 C 20.704279 17.441406 19.107103 17.288403 17.951172 16.982422 C 16.829232 16.676441 16.030656 16.165127 15.554688 15.451172 C 15.112735 14.771215 14.873859 13.853193 14.839844 12.697266 C 14.805828 12.085304 14.805828 11.372589 14.839844 10.556641 C 14.907875 9.740692 15.010421 8.942107 15.146484 8.1601562 C 15.193746 7.9426073 15.245011 7.7421791 15.294922 7.5351562 L 27.808594 7.5019531 z M 22.541016 28.125 C 19.515201 28.125 17.033568 28.550444 15.095703 29.400391 C 13.157813 30.284335 11.711703 31.694935 10.759766 33.632812 C 9.8418192 35.604688 9.3828125 38.188967 9.3828125 41.384766 C 9.3828125 42.60869 9.4518276 43.883068 9.5878906 45.208984 C 9.6898875 46.534901 9.8764375 47.826064 10.148438 49.083984 C 10.420412 50.341904 10.793563 51.463281 11.269531 52.449219 L 15.910156 51.736328 C 15.706238 50.002437 15.553219 48.269047 15.451172 46.535156 C 15.38314 44.835263 15.349609 43.405928 15.349609 42.25 C 15.349609 40.652101 15.571694 39.394504 16.013672 38.476562 C 16.45565 37.592618 17.23746 36.96382 18.359375 36.589844 C 18.91148 36.411222 19.578387 36.278854 20.347656 36.185547 L 20.347656 45.158203 C 20.347656 48.082018 20.909335 50.138199 22.03125 51.328125 C 23.187181 52.518041 24.92056 53.096491 27.232422 53.0625 C 30.088233 53.0625 32.230298 52.127693 33.658203 50.257812 C 35.120124 48.421927 35.851562 45.378637 35.851562 41.128906 C 35.851562 38.0351 35.426112 35.536693 34.576172 33.632812 C 33.726207 31.728932 32.332396 30.335116 30.394531 29.451172 C 28.456641 28.567228 25.838805 28.125 22.541016 28.125 z M 24.580078 36.056641 C 25.945601 36.111508 27.036582 36.253942 27.84375 36.488281 C 28.897684 36.794262 29.612356 37.337189 29.986328 38.119141 C 30.360325 38.90109 30.546875 39.990853 30.546875 41.384766 C 30.546875 42.948669 30.309953 44.05326 29.833984 44.699219 C 29.392006 45.379183 28.574687 45.735541 27.384766 45.769531 C 26.50081 45.769531 25.804881 45.599744 25.294922 45.259766 C 24.818953 44.953783 24.580078 44.222332 24.580078 43.066406 L 24.580078 36.056641 z M 9.9960938 56.810547 L 9.9960938 64.357422 L 27.248047 64.357422 C 27.923313 65.706617 28.470896 66.909106 28.8125 67.876953 C 29.254478 69.032881 29.476562 70.154258 29.476562 71.242188 C 29.476562 72.228125 29.254478 72.92601 28.8125 73.333984 C 28.404513 73.741959 27.639493 73.945312 26.517578 73.945312 L 9.9960938 73.945312 L 9.9960938 81.492188 L 28.863281 81.492188 C 33.520995 81.492187 35.851562 79.113216 35.851562 74.353516 C 35.851562 72.517633 35.442903 70.648022 34.626953 68.744141 C 33.857385 66.980551 32.758175 65.248028 31.353516 63.544922 L 35.1875 62.878906 L 35.1875 56.810547 L 9.9960938 56.810547 z M 3.2636719 83.404297 L 0 87.587891 C 0.71395276 88.947805 1.6487568 90.102745 2.8046875 91.054688 C 3.9606182 92.040625 5.2705258 92.788862 6.7324219 93.298828 C 8.1603274 93.842795 9.6380664 94.115234 11.167969 94.115234 L 35.1875 94.115234 L 35.1875 86.566406 L 11.167969 86.566406 C 9.6380664 86.566406 8.2610212 86.329484 7.0371094 85.853516 C 5.8131724 85.377545 4.55559 84.560223 3.2636719 83.404297 z M 41.5625 86.414062 C 40.032598 86.414062 39.267578 87.145516 39.267578 88.607422 L 39.267578 91.921875 C 39.267578 93.383784 40.032598 94.115234 41.5625 94.115234 L 44.316406 94.115234 C 45.812318 94.115234 46.560547 93.383784 46.560547 91.921875 L 46.560547 88.607422 C 46.560547 87.145516 45.812318 86.414062 44.316406 86.414062 L 41.5625 86.414062 z M 41.306641 99.392578 C 39.776738 99.392578 39.011719 100.14081 39.011719 101.63672 L 39.011719 104.90039 C 39.011719 106.39629 39.776738 107.14453 41.306641 107.14453 L 44.009766 107.14453 C 45.539668 107.14453 46.304688 106.39629 46.304688 104.90039 L 46.304688 101.63672 C 46.304688 100.14081 45.539668 99.392578 44.009766 99.392578 L 41.306641 99.392578 z M 9.9960938 99.494141 L 9.9960938 106.99023 L 35.1875 106.99023 L 35.1875 99.494141 L 9.9960938 99.494141 z M 16.523438 110.99414 C 14.959545 110.99414 13.649637 111.3505 12.595703 112.06445 C 11.541769 112.77841 10.743194 113.74873 10.199219 114.97266 C 9.6552439 116.19658 9.3828125 117.57361 9.3828125 119.10352 C 9.3828125 120.66742 9.6384532 122.06123 10.148438 123.28516 C 10.658397 124.50908 11.270422 125.58011 11.984375 126.49805 C 12.664757 127.33307 13.344988 128.00881 14.025391 128.5625 L 9.9960938 129.35352 L 9.9960938 135.37109 L 26.621094 135.37109 C 28.966946 135.37109 30.802972 134.97922 32.128906 134.19727 C 33.488805 133.44931 34.4404 132.34472 34.984375 130.88281 C 35.56234 129.4209 35.851562 127.63716 35.851562 125.5293 C 35.851562 124.27138 35.782547 122.84204 35.646484 121.24414 C 35.544563 119.64624 35.40836 118.04907 35.238281 116.45117 C 35.068429 114.85327 34.865063 113.44267 34.626953 112.21875 L 29.628906 112.93164 C 29.764969 114.97151 29.867515 116.96056 29.935547 118.89844 C 30.037594 120.83632 30.087891 122.45222 30.087891 123.74414 C 30.087891 125.30804 29.815459 126.36228 29.271484 126.90625 C 28.727535 127.48421 27.861796 127.77148 26.671875 127.77148 L 25.498047 127.77148 L 25.498047 118.64453 C 25.498047 116.26468 24.938346 114.39507 23.816406 113.03516 C 22.694491 111.67524 21.128918 110.99414 19.123047 110.99414 L 16.523438 110.99414 z M 17.542969 118.43945 L 18.767578 118.43945 C 19.515521 118.43945 20.108803 118.62602 20.550781 119 C 20.992759 119.40797 21.214844 120.07229 21.214844 120.99023 L 21.246094 127.77148 L 17.287109 127.77148 C 17.202344 127.65285 17.114562 127.53805 17.033203 127.41602 C 16.353241 126.39608 15.825144 125.35862 15.451172 124.30469 C 15.0772 123.28475 14.890625 122.33316 14.890625 121.44922 C 14.890625 120.39528 15.112735 119.63027 15.554688 119.1543 C 16.030656 118.67833 16.693003 118.43945 17.542969 118.43945 z M 22.541016 139.11914 C 19.345223 139.11914 16.777734 139.54458 14.839844 140.39453 C 12.901979 141.24448 11.508143 142.62151 10.658203 144.52539 C 9.8082378 146.46327 9.3828125 148.99524 9.3828125 152.12305 C 9.3828125 155.28485 9.8082378 157.81877 10.658203 159.72266 C 11.508143 161.62654 12.901979 162.98483 14.839844 163.80078 C 16.777734 164.65073 19.345223 165.07617 22.541016 165.07617 C 25.804814 165.07617 28.405885 164.65073 30.34375 163.80078 C 32.28164 162.98483 33.67545 161.62654 34.525391 159.72266 C 35.409347 157.81877 35.851562 155.28485 35.851562 152.12305 C 35.851563 148.99524 35.409347 146.46327 34.525391 144.52539 C 33.67545 142.62151 32.28164 141.24448 30.34375 140.39453 C 28.405885 139.54458 25.804814 139.11914 22.541016 139.11914 z M 22.541016 147.02344 C 24.614893 147.02344 26.212069 147.17644 27.333984 147.48242 C 28.455925 147.7884 29.23771 148.31455 29.679688 149.0625 C 30.12164 149.81045 30.34375 150.83113 30.34375 152.12305 C 30.34375 153.41496 30.12164 154.43564 29.679688 155.18359 C 29.23771 155.93154 28.455925 156.45769 27.333984 156.76367 C 26.212069 157.06965 24.614893 157.22266 22.541016 157.22266 C 20.501154 157.22266 18.920768 157.06965 17.798828 156.76367 C 16.676913 156.45769 15.89315 155.93154 15.451172 155.18359 C 15.043184 154.43564 14.839844 153.41496 14.839844 152.12305 C 14.839844 150.83113 15.043184 149.81045 15.451172 149.0625 C 15.89315 148.31455 16.676913 147.7884 17.798828 147.48242 C 18.920768 147.17644 20.501154 147.02344 22.541016 147.02344 z M 9.9960938 169.08008 L 9.9960938 176.62695 L 27.384766 176.62695 C 27.81183 177.31603 28.188149 177.94956 28.457031 178.46289 C 28.830927 179.21084 29.08464 179.85642 29.220703 180.40039 C 29.390782 180.97835 29.476562 181.5568 29.476562 182.13477 C 29.476562 183.08671 29.254478 183.78459 28.8125 184.22656 C 28.370522 184.70253 27.605503 184.93945 26.517578 184.93945 L 9.9960938 184.93945 L 9.9960938 192.18164 L 27.28125 192.18164 C 27.726967 192.90758 28.11799 193.57255 28.404297 194.11914 C 28.778193 194.8331 29.050624 195.46189 29.220703 196.00586 C 29.390782 196.54983 29.476562 197.12827 29.476562 197.74023 C 29.476562 198.76017 29.237712 199.47288 28.761719 199.88086 C 28.319766 200.28883 27.571512 200.49414 26.517578 200.49414 L 9.9960938 200.49414 L 9.9960938 207.99023 L 28.863281 207.99023 C 31.141127 207.99023 32.87646 207.395 34.066406 206.20508 C 35.256328 205.01515 35.851562 203.28176 35.851562 201.00391 C 35.851562 199.20202 35.442903 197.5022 34.626953 195.9043 C 33.954889 194.56018 32.962268 193.18926 31.6875 191.79492 C 32.646112 191.49924 33.443483 191.03773 34.066406 190.39648 C 35.256328 189.24056 35.851562 187.54074 35.851562 185.29688 C 35.851562 183.46099 35.442903 181.76117 34.626953 180.19727 C 33.89734 178.73805 32.797378 177.2316 31.357422 175.68359 L 35.1875 175.09766 L 35.1875 169.08008 L 9.9960938 169.08008 z M 22.541016 211.83984 C 19.345223 211.83984 16.777734 212.26529 14.839844 213.11523 C 12.901979 213.96518 11.508143 215.34221 10.658203 217.24609 C 9.8082378 219.18397 9.3828125 221.71595 9.3828125 224.84375 C 9.3828125 228.00555 9.8082378 230.53948 10.658203 232.44336 C 11.508143 234.34724 12.901979 235.70749 14.839844 236.52344 C 16.777734 237.37338 19.345223 237.79688 22.541016 237.79688 C 25.804814 237.79688 28.405885 237.37338 30.34375 236.52344 C 32.28164 235.70749 33.67545 234.34724 34.525391 232.44336 C 35.409347 230.53948 35.851562 228.00555 35.851562 224.84375 C 35.851563 221.71595 35.409347 219.18397 34.525391 217.24609 C 33.67545 215.34221 32.28164 213.96518 30.34375 213.11523 C 28.405885 212.26529 25.804814 211.83984 22.541016 211.83984 z M 22.541016 219.74414 C 24.614893 219.74414 26.212069 219.89714 27.333984 220.20312 C 28.455925 220.50911 29.23771 221.0372 29.679688 221.78516 C 30.12164 222.53311 30.34375 223.55183 30.34375 224.84375 C 30.34375 226.13567 30.12164 227.15634 29.679688 227.9043 C 29.23771 228.65225 28.455925 229.17839 27.333984 229.48438 C 26.212069 229.79036 24.614893 229.94336 22.541016 229.94336 C 20.501154 229.94336 18.920768 229.79036 17.798828 229.48438 C 16.676913 229.17839 15.89315 228.65225 15.451172 227.9043 C 15.043184 227.15634 14.839844 226.13567 14.839844 224.84375 C 14.839844 223.55183 15.043184 222.53311 15.451172 221.78516 C 15.89315 221.0372 16.676913 220.50911 17.798828 220.20312 C 18.920768 219.89714 20.501154 219.74414 22.541016 219.74414 z M 22.794922 240.88281 C 18.47719 240.88281 15.163424 241.56196 12.851562 242.92188 C 10.539701 244.31579 9.3828125 246.62763 9.3828125 249.85742 C 9.3828125 252.23727 9.8586099 254.2431 10.810547 255.875 C 11.678192 257.31108 12.727601 258.49681 13.9375 259.45898 L 9.9960938 260.10938 L 9.9960938 266.07617 L 45.693359 266.07617 L 45.693359 258.52734 L 38.859375 258.52734 C 37.737435 258.52734 36.632846 258.54413 35.544922 258.57812 C 34.866619 258.62188 34.188069 258.68435 33.509766 258.74219 C 34.19341 257.76816 34.725319 256.69757 35.085938 255.51953 C 35.595922 253.88763 35.851562 252.18781 35.851562 250.41992 C 35.851562 248.31206 35.459693 246.54314 34.677734 245.11523 C 33.895775 243.68732 32.552312 242.6163 30.648438 241.90234 C 28.778554 241.22239 26.160692 240.88281 22.794922 240.88281 z M 22.845703 248.63477 C 24.987561 248.63477 26.603482 248.78777 27.691406 249.09375 C 28.779356 249.39973 29.510794 249.87553 29.884766 250.52148 C 30.258737 251.16744 30.445312 252.01638 30.445312 253.07031 C 30.445313 254.29424 30.309084 255.36526 30.037109 256.2832 C 29.840921 256.9453 29.606542 257.74144 29.375 258.52734 L 17.638672 258.52734 C 17.301019 258.03475 16.941379 257.52015 16.675781 257.09961 C 16.30191 256.45365 16.012688 255.80807 15.808594 255.16211 C 15.638515 254.51615 15.554688 253.75113 15.554688 252.86719 C 15.554688 251.88125 15.741238 251.06588 16.115234 250.41992 C 16.523197 249.80796 17.237869 249.34895 18.257812 249.04297 C 19.311746 248.77099 20.839832 248.63477 22.845703 248.63477 z M 16.318359 270.94531 C 11.626655 270.94531 9.28125 273.34302 9.28125 278.13672 C 9.28125 280.0066 9.6731443 281.82391 10.455078 283.5918 C 11.17468 285.21871 12.255411 286.87606 13.666016 288.56055 L 9.9960938 289.20312 L 9.9960938 295.16797 L 35.1875 295.16797 L 35.1875 287.62109 L 17.753906 287.62109 C 17.123021 286.43818 16.601828 285.37322 16.267578 284.50977 C 15.893606 283.48983 15.707031 282.45432 15.707031 281.40039 C 15.707031 280.38045 15.927163 279.63222 16.369141 279.15625 C 16.811119 278.71428 17.559347 278.49219 18.613281 278.49219 L 35.1875 278.49219 L 35.1875 270.94531 L 16.318359 270.94531 z M 16.166016 300.24219 C 14.024157 300.24219 12.357915 300.90651 11.167969 302.23242 C 9.9780475 303.55834 9.3828125 305.35886 9.3828125 307.63672 C 9.3828125 308.18069 9.4350621 308.845 9.5371094 309.62695 C 9.6051409 310.4089 9.7224994 311.17392 9.8925781 311.92188 C 10.028465 312.66983 10.200202 313.24632 10.404297 313.6543 L 15.503906 312.78906 L 15.503906 310.74805 C 15.503906 309.76211 15.707247 309.01387 16.115234 308.50391 C 16.557187 307.99394 17.202769 307.74023 18.052734 307.74023 L 45.693359 307.79102 L 45.693359 300.24219 L 16.166016 300.24219 z M 16.523438 314.54688 C 14.959545 314.54688 13.649637 314.90519 12.595703 315.61914 C 11.541769 316.3331 10.743194 317.30147 10.199219 318.52539 C 9.6552439 319.74931 9.3828125 321.12635 9.3828125 322.65625 C 9.3828125 324.22015 9.6384532 325.61397 10.148438 326.83789 C 10.658397 328.06181 11.270422 329.13284 11.984375 330.05078 C 12.664698 330.88574 13.345046 331.56157 14.025391 332.11523 L 9.9960938 332.90625 L 9.9960938 338.92383 L 26.621094 338.92383 C 28.966946 338.92383 30.802972 338.5339 32.128906 337.75195 C 33.488805 337.004 34.4404 335.89745 34.984375 334.43555 C 35.56234 332.97364 35.851562 331.1899 35.851562 329.08203 C 35.851562 327.82411 35.782547 326.39673 35.646484 324.79883 C 35.544563 323.20093 35.40836 321.6018 35.238281 320.00391 C 35.068429 318.40601 34.865063 316.99541 34.626953 315.77148 L 29.628906 316.48633 C 29.764969 318.5262 29.867515 320.51329 29.935547 322.45117 C 30.037594 324.38905 30.087891 326.00496 30.087891 327.29688 C 30.087891 328.86078 29.815459 329.91502 29.271484 330.45898 C 28.727535 331.03695 27.861796 331.32617 26.671875 331.32617 L 25.498047 331.32617 L 25.498047 322.19727 C 25.498047 319.81742 24.938346 317.9478 23.816406 316.58789 C 22.694491 315.22798 21.128918 314.54688 19.123047 314.54688 L 16.523438 314.54688 z M 17.542969 321.99219 L 18.767578 321.99219 C 19.515521 321.99219 20.108803 322.18071 20.550781 322.55469 C 20.992759 322.96266 21.214844 323.62503 21.214844 324.54297 L 21.246094 331.32617 L 17.289062 331.32617 C 17.203747 331.20682 17.115069 331.09155 17.033203 330.96875 C 16.353241 329.94881 15.825144 328.91136 15.451172 327.85742 C 15.0772 326.83749 14.890625 325.8859 14.890625 325.00195 C 14.890625 323.94802 15.112735 323.183 15.554688 322.70703 C 16.030656 322.23106 16.693003 321.99219 17.542969 321.99219 z M 9.9960938 343.69141 L 9.9960938 351.24023 L 27.076172 351.24023 C 27.618553 352.85031 28.061666 354.26207 28.353516 355.37109 C 28.693497 356.66301 28.863281 357.90382 28.863281 359.09375 L 28.863281 361.18359 L 35.851562 361.89844 L 35.851562 360.57227 C 35.851562 358.87237 35.442903 357.1222 34.626953 355.32031 C 33.864415 353.63638 32.761469 351.96674 31.345703 350.3125 L 35.1875 349.60742 L 35.1875 343.69141 L 9.9960938 343.69141 z "
+           transform="matrix(0,-0.26458333,0.26458333,0,0,-120)" />
+      </g>
+    </g>
+  </g>
+  <style
+     id="style888"
+     type="text/css">
+*[layerid=&quot;1&quot;] {stroke:#FF0000;fill:#FF0000;}
+*[layerid=&quot;2&quot;] {stroke:#0000FF;fill:#0000FF;}
+*[layerid=&quot;3&quot;] {stroke:#FFCC00;fill:#FFCC00;}
+*[layerid=&quot;4&quot;] {stroke:#66CC33;fill:#66CC33;}
+*[layerid=&quot;5&quot;] {stroke:#808080;fill:#808080;}
+*[layerid=&quot;6&quot;] {stroke:#800000;fill:#800000;}
+*[layerid=&quot;7&quot;] {stroke:#800080;fill:#800080;stroke-opacity:0.7;fill-opacity:0.7;}
+*[layerid=&quot;8&quot;] {stroke:#AA00FF;fill:#AA00FF;stroke-opacity:0.7;fill-opacity:0.7;}
+*[layerid=&quot;9&quot;] {stroke:#6464FF;fill:#6464FF;}
+*[layerid=&quot;10&quot;] {stroke:#FF00FF;fill:#FF00FF;}
+*[layerid=&quot;11&quot;] {stroke:#C0C0C0;fill:#C0C0C0;}
+*[layerid=&quot;12&quot;] {stroke:#FFFFFF;fill:#FFFFFF;}
+*[layerid=&quot;13&quot;] {stroke:#33CC99;fill:#33CC99;}
+*[layerid=&quot;14&quot;] {stroke:#5555FF;fill:#5555FF;}
+*[layerid=&quot;15&quot;] {stroke:#F022F0;fill:#F022F0;}
+*[layerid=&quot;19&quot;] {stroke:#66CCFF;fill:#66CCFF;}
+*[layerid=&quot;21&quot;] {stroke:#999966;fill:#999966;}
+*[layerid=&quot;22&quot;] {stroke:#008000;fill:#008000;}
+*[layerid=&quot;23&quot;] {stroke:#00FF00;fill:#00FF00;}
+*[layerid=&quot;24&quot;] {stroke:#BC8E00;fill:#BC8E00;}
+*[layerid=&quot;25&quot;] {stroke:#70DBFA;fill:#70DBFA;}
+*[layerid=&quot;26&quot;] {stroke:#00CC66;fill:#00CC66;}
+*[layerid=&quot;27&quot;] {stroke:#9966FF;fill:#9966FF;}
+*[layerid=&quot;28&quot;] {stroke:#800080;fill:#800080;}
+*[layerid=&quot;29&quot;] {stroke:#008080;fill:#008080;}
+*[layerid=&quot;30&quot;] {stroke:#15935F;fill:#15935F;}
+*[layerid=&quot;31&quot;] {stroke:#000080;fill:#000080;}
+*[layerid=&quot;32&quot;] {stroke:#00B400;fill:#00B400;}
+*[layerid=&quot;33&quot;] {stroke:#2E4756;fill:#2E4756;}
+*[layerid=&quot;34&quot;] {stroke:#99842F;fill:#99842F;}
+*[layerid=&quot;35&quot;] {stroke:#FFFFAA;fill:#FFFFAA;}
+*[layerid=&quot;36&quot;] {stroke:#99842F;fill:#99842F;}
+*[layerid=&quot;37&quot;] {stroke:#2E4756;fill:#2E4756;}
+*[layerid=&quot;38&quot;] {stroke:#3535FF;fill:#3535FF;}
+*[layerid=&quot;39&quot;] {stroke:#8000BC;fill:#8000BC;}
+*[layerid=&quot;40&quot;] {stroke:#43AE5F;fill:#43AE5F;}
+*[layerid=&quot;41&quot;] {stroke:#C3ECCE;fill:#C3ECCE;}
+*[layerid=&quot;42&quot;] {stroke:#728978;fill:#728978;}
+*[layerid=&quot;43&quot;] {stroke:#39503F;fill:#39503F;}
+*[layerid=&quot;44&quot;] {stroke:#0C715D;fill:#0C715D;}
+*[layerid=&quot;45&quot;] {stroke:#5A8A80;fill:#5A8A80;}
+*[layerid=&quot;46&quot;] {stroke:#2B937E;fill:#2B937E;}
+*[layerid=&quot;47&quot;] {stroke:#23999D;fill:#23999D;}
+*[layerid=&quot;48&quot;] {stroke:#45B4E3;fill:#45B4E3;}
+*[layerid=&quot;49&quot;] {stroke:#215DA1;fill:#215DA1;}
+*[layerid=&quot;50&quot;] {stroke:#4564D7;fill:#4564D7;}
+*[layerid=&quot;51&quot;] {stroke:#6969E9;fill:#6969E9;}
+*[layerid=&quot;52&quot;] {stroke:#9069E9;fill:#9069E9;}
+*[layerid=&quot;99&quot;] {stroke:#00CCCC;fill:#00CCCC;stroke-opacity:0.6;fill-opacity:0.6;}
+*[layerid=&quot;100&quot;] {stroke:#CC9999;fill:#CC9999;}
+*[layerid=&quot;101&quot;] {stroke:#66FFCC;fill:#66FFCC;}
+*[layerid=&quot;Hole&quot;] {stroke:#222222;fill:#222222;}
+*[layerid=&quot;DRCError&quot;] {stroke:#FAD609;fill:#FAD609;}
+*[fill=&quot;none&quot;] {fill: none;}
+*[stroke=&quot;none&quot;] {stroke: none;}
+path, polyline, polygon, line {stroke-linecap:round;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;1&quot;] ellipse:not([c_etype=&quot;pad_outer&quot;]) {fill:#FF0000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;1&quot;] polygon:not([c_etype=&quot;pad_outer&quot;]) {fill:#FF0000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;1&quot;] polyline:not([c_etype=&quot;pad_outer&quot;]) {stroke:#FF0000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;2&quot;] ellipse:not([c_etype=&quot;pad_outer&quot;]) {fill:#0000FF;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;2&quot;] polygon:not([c_etype=&quot;pad_outer&quot;]) {fill:#0000FF;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;2&quot;] polyline:not([c_etype=&quot;pad_outer&quot;]) {stroke:#0000FF;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] ellipse:not([c_etype=&quot;pad_outer&quot;]) {fill:#C0C0C0;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] polygon:not([c_etype=&quot;pad_outer&quot;]) {fill:#C0C0C0;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] polyline:not([c_etype=&quot;pad_outer&quot;]) {stroke:#C0C0C0;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] circle {fill:#222222;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] &gt; polyline:nth-of-type(2) {stroke:#222222;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;][c_shape=&quot;ELLIPSE&quot;]  polyline:nth-last-of-type(1) {stroke:#222222;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;][c_shape=&quot;RECT&quot;]  polyline:nth-last-of-type(1) {stroke:#222222;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;][c_shape=&quot;POLYGON&quot;]  polyline:nth-last-of-type(1) {stroke:#222222;}
+g[c_partid=&quot;part_via&quot;] &gt; * + circle, #gCurParts g[c_partid=&quot;part_via&quot;] &gt; * + circle {fill:#222222;}
+g[c_partid=&quot;part_pad&quot;] &gt; polygon[c_etype=&quot;pad_outer&quot;], #gCurParts g[c_partid=&quot;part_pad&quot;] &gt; polygon[c_etype=&quot;pad_outer&quot;] {stroke-linejoin: round;stroke-miterlimit: 100;}
+g[c_partid=&quot;part_hole&quot;] &gt; circle {fill: #222222;}path, polyline, polygon {stroke-linejoin:round;}
+rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges;}
+</style>
+  <style
+     id="style888-40"
+     type="text/css">
+*[layerid=&quot;1&quot;] {stroke:#FF0000;fill:#FF0000;}
+*[layerid=&quot;2&quot;] {stroke:#0000FF;fill:#0000FF;}
+*[layerid=&quot;3&quot;] {stroke:#FFCC00;fill:#FFCC00;}
+*[layerid=&quot;4&quot;] {stroke:#66CC33;fill:#66CC33;}
+*[layerid=&quot;5&quot;] {stroke:#808080;fill:#808080;}
+*[layerid=&quot;6&quot;] {stroke:#800000;fill:#800000;}
+*[layerid=&quot;7&quot;] {stroke:#800080;fill:#800080;stroke-opacity:0.7;fill-opacity:0.7;}
+*[layerid=&quot;8&quot;] {stroke:#AA00FF;fill:#AA00FF;stroke-opacity:0.7;fill-opacity:0.7;}
+*[layerid=&quot;9&quot;] {stroke:#6464FF;fill:#6464FF;}
+*[layerid=&quot;10&quot;] {stroke:#FF00FF;fill:#FF00FF;}
+*[layerid=&quot;11&quot;] {stroke:#C0C0C0;fill:#C0C0C0;}
+*[layerid=&quot;12&quot;] {stroke:#FFFFFF;fill:#FFFFFF;}
+*[layerid=&quot;13&quot;] {stroke:#33CC99;fill:#33CC99;}
+*[layerid=&quot;14&quot;] {stroke:#5555FF;fill:#5555FF;}
+*[layerid=&quot;15&quot;] {stroke:#F022F0;fill:#F022F0;}
+*[layerid=&quot;19&quot;] {stroke:#66CCFF;fill:#66CCFF;}
+*[layerid=&quot;21&quot;] {stroke:#999966;fill:#999966;}
+*[layerid=&quot;22&quot;] {stroke:#008000;fill:#008000;}
+*[layerid=&quot;23&quot;] {stroke:#00FF00;fill:#00FF00;}
+*[layerid=&quot;24&quot;] {stroke:#BC8E00;fill:#BC8E00;}
+*[layerid=&quot;25&quot;] {stroke:#70DBFA;fill:#70DBFA;}
+*[layerid=&quot;26&quot;] {stroke:#00CC66;fill:#00CC66;}
+*[layerid=&quot;27&quot;] {stroke:#9966FF;fill:#9966FF;}
+*[layerid=&quot;28&quot;] {stroke:#800080;fill:#800080;}
+*[layerid=&quot;29&quot;] {stroke:#008080;fill:#008080;}
+*[layerid=&quot;30&quot;] {stroke:#15935F;fill:#15935F;}
+*[layerid=&quot;31&quot;] {stroke:#000080;fill:#000080;}
+*[layerid=&quot;32&quot;] {stroke:#00B400;fill:#00B400;}
+*[layerid=&quot;33&quot;] {stroke:#2E4756;fill:#2E4756;}
+*[layerid=&quot;34&quot;] {stroke:#99842F;fill:#99842F;}
+*[layerid=&quot;35&quot;] {stroke:#FFFFAA;fill:#FFFFAA;}
+*[layerid=&quot;36&quot;] {stroke:#99842F;fill:#99842F;}
+*[layerid=&quot;37&quot;] {stroke:#2E4756;fill:#2E4756;}
+*[layerid=&quot;38&quot;] {stroke:#3535FF;fill:#3535FF;}
+*[layerid=&quot;39&quot;] {stroke:#8000BC;fill:#8000BC;}
+*[layerid=&quot;40&quot;] {stroke:#43AE5F;fill:#43AE5F;}
+*[layerid=&quot;41&quot;] {stroke:#C3ECCE;fill:#C3ECCE;}
+*[layerid=&quot;42&quot;] {stroke:#728978;fill:#728978;}
+*[layerid=&quot;43&quot;] {stroke:#39503F;fill:#39503F;}
+*[layerid=&quot;44&quot;] {stroke:#0C715D;fill:#0C715D;}
+*[layerid=&quot;45&quot;] {stroke:#5A8A80;fill:#5A8A80;}
+*[layerid=&quot;46&quot;] {stroke:#2B937E;fill:#2B937E;}
+*[layerid=&quot;47&quot;] {stroke:#23999D;fill:#23999D;}
+*[layerid=&quot;48&quot;] {stroke:#45B4E3;fill:#45B4E3;}
+*[layerid=&quot;49&quot;] {stroke:#215DA1;fill:#215DA1;}
+*[layerid=&quot;50&quot;] {stroke:#4564D7;fill:#4564D7;}
+*[layerid=&quot;51&quot;] {stroke:#6969E9;fill:#6969E9;}
+*[layerid=&quot;52&quot;] {stroke:#9069E9;fill:#9069E9;}
+*[layerid=&quot;99&quot;] {stroke:#00CCCC;fill:#00CCCC;stroke-opacity:0.6;fill-opacity:0.6;}
+*[layerid=&quot;100&quot;] {stroke:#CC9999;fill:#CC9999;}
+*[layerid=&quot;101&quot;] {stroke:#66FFCC;fill:#66FFCC;}
+*[layerid=&quot;Hole&quot;] {stroke:#222222;fill:#222222;}
+*[layerid=&quot;DRCError&quot;] {stroke:#FAD609;fill:#FAD609;}
+*[fill=&quot;none&quot;] {fill: none;}
+*[stroke=&quot;none&quot;] {stroke: none;}
+path, polyline, polygon, line {stroke-linecap:round;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;1&quot;] ellipse:not([c_etype=&quot;pad_outer&quot;]) {fill:#FF0000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;1&quot;] polygon:not([c_etype=&quot;pad_outer&quot;]) {fill:#FF0000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;1&quot;] polyline:not([c_etype=&quot;pad_outer&quot;]) {stroke:#FF0000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;2&quot;] ellipse:not([c_etype=&quot;pad_outer&quot;]) {fill:#0000FF;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;2&quot;] polygon:not([c_etype=&quot;pad_outer&quot;]) {fill:#0000FF;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;2&quot;] polyline:not([c_etype=&quot;pad_outer&quot;]) {stroke:#0000FF;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] ellipse:not([c_etype=&quot;pad_outer&quot;]) {fill:#C0C0C0;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] polygon:not([c_etype=&quot;pad_outer&quot;]) {fill:#C0C0C0;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] polyline:not([c_etype=&quot;pad_outer&quot;]) {stroke:#C0C0C0;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] circle {fill:#222222;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] &gt; polyline:nth-of-type(2) {stroke:#222222;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;][c_shape=&quot;ELLIPSE&quot;]  polyline:nth-last-of-type(1) {stroke:#222222;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;][c_shape=&quot;RECT&quot;]  polyline:nth-last-of-type(1) {stroke:#222222;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;][c_shape=&quot;POLYGON&quot;]  polyline:nth-last-of-type(1) {stroke:#222222;}
+g[c_partid=&quot;part_via&quot;] &gt; * + circle, #gCurParts g[c_partid=&quot;part_via&quot;] &gt; * + circle {fill:#222222;}
+g[c_partid=&quot;part_pad&quot;] &gt; polygon[c_etype=&quot;pad_outer&quot;], #gCurParts g[c_partid=&quot;part_pad&quot;] &gt; polygon[c_etype=&quot;pad_outer&quot;] {stroke-linejoin: round;stroke-miterlimit: 100;}
+g[c_partid=&quot;part_hole&quot;] &gt; circle {fill: #222222;}path, polyline, polygon {stroke-linejoin:round;}
+rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges;}
+</style>
+  <style
+     id="style888-1"
+     type="text/css">
+*[layerid=&quot;1&quot;] {stroke:#FF0000;fill:#FF0000;}
+*[layerid=&quot;2&quot;] {stroke:#0000FF;fill:#0000FF;}
+*[layerid=&quot;3&quot;] {stroke:#FFCC00;fill:#FFCC00;}
+*[layerid=&quot;4&quot;] {stroke:#66CC33;fill:#66CC33;}
+*[layerid=&quot;5&quot;] {stroke:#808080;fill:#808080;}
+*[layerid=&quot;6&quot;] {stroke:#800000;fill:#800000;}
+*[layerid=&quot;7&quot;] {stroke:#800080;fill:#800080;stroke-opacity:0.7;fill-opacity:0.7;}
+*[layerid=&quot;8&quot;] {stroke:#AA00FF;fill:#AA00FF;stroke-opacity:0.7;fill-opacity:0.7;}
+*[layerid=&quot;9&quot;] {stroke:#6464FF;fill:#6464FF;}
+*[layerid=&quot;10&quot;] {stroke:#FF00FF;fill:#FF00FF;}
+*[layerid=&quot;11&quot;] {stroke:#C0C0C0;fill:#C0C0C0;}
+*[layerid=&quot;12&quot;] {stroke:#FFFFFF;fill:#FFFFFF;}
+*[layerid=&quot;13&quot;] {stroke:#33CC99;fill:#33CC99;}
+*[layerid=&quot;14&quot;] {stroke:#5555FF;fill:#5555FF;}
+*[layerid=&quot;15&quot;] {stroke:#F022F0;fill:#F022F0;}
+*[layerid=&quot;19&quot;] {stroke:#66CCFF;fill:#66CCFF;}
+*[layerid=&quot;21&quot;] {stroke:#999966;fill:#999966;}
+*[layerid=&quot;22&quot;] {stroke:#008000;fill:#008000;}
+*[layerid=&quot;23&quot;] {stroke:#00FF00;fill:#00FF00;}
+*[layerid=&quot;24&quot;] {stroke:#BC8E00;fill:#BC8E00;}
+*[layerid=&quot;25&quot;] {stroke:#70DBFA;fill:#70DBFA;}
+*[layerid=&quot;26&quot;] {stroke:#00CC66;fill:#00CC66;}
+*[layerid=&quot;27&quot;] {stroke:#9966FF;fill:#9966FF;}
+*[layerid=&quot;28&quot;] {stroke:#800080;fill:#800080;}
+*[layerid=&quot;29&quot;] {stroke:#008080;fill:#008080;}
+*[layerid=&quot;30&quot;] {stroke:#15935F;fill:#15935F;}
+*[layerid=&quot;31&quot;] {stroke:#000080;fill:#000080;}
+*[layerid=&quot;32&quot;] {stroke:#00B400;fill:#00B400;}
+*[layerid=&quot;33&quot;] {stroke:#2E4756;fill:#2E4756;}
+*[layerid=&quot;34&quot;] {stroke:#99842F;fill:#99842F;}
+*[layerid=&quot;35&quot;] {stroke:#FFFFAA;fill:#FFFFAA;}
+*[layerid=&quot;36&quot;] {stroke:#99842F;fill:#99842F;}
+*[layerid=&quot;37&quot;] {stroke:#2E4756;fill:#2E4756;}
+*[layerid=&quot;38&quot;] {stroke:#3535FF;fill:#3535FF;}
+*[layerid=&quot;39&quot;] {stroke:#8000BC;fill:#8000BC;}
+*[layerid=&quot;40&quot;] {stroke:#43AE5F;fill:#43AE5F;}
+*[layerid=&quot;41&quot;] {stroke:#C3ECCE;fill:#C3ECCE;}
+*[layerid=&quot;42&quot;] {stroke:#728978;fill:#728978;}
+*[layerid=&quot;43&quot;] {stroke:#39503F;fill:#39503F;}
+*[layerid=&quot;44&quot;] {stroke:#0C715D;fill:#0C715D;}
+*[layerid=&quot;45&quot;] {stroke:#5A8A80;fill:#5A8A80;}
+*[layerid=&quot;46&quot;] {stroke:#2B937E;fill:#2B937E;}
+*[layerid=&quot;47&quot;] {stroke:#23999D;fill:#23999D;}
+*[layerid=&quot;48&quot;] {stroke:#45B4E3;fill:#45B4E3;}
+*[layerid=&quot;49&quot;] {stroke:#215DA1;fill:#215DA1;}
+*[layerid=&quot;50&quot;] {stroke:#4564D7;fill:#4564D7;}
+*[layerid=&quot;51&quot;] {stroke:#6969E9;fill:#6969E9;}
+*[layerid=&quot;52&quot;] {stroke:#9069E9;fill:#9069E9;}
+*[layerid=&quot;99&quot;] {stroke:#00CCCC;fill:#00CCCC;stroke-opacity:0.6;fill-opacity:0.6;}
+*[layerid=&quot;100&quot;] {stroke:#CC9999;fill:#CC9999;}
+*[layerid=&quot;101&quot;] {stroke:#66FFCC;fill:#66FFCC;}
+*[layerid=&quot;Hole&quot;] {stroke:#222222;fill:#222222;}
+*[layerid=&quot;DRCError&quot;] {stroke:#FAD609;fill:#FAD609;}
+*[fill=&quot;none&quot;] {fill: none;}
+*[stroke=&quot;none&quot;] {stroke: none;}
+path, polyline, polygon, line {stroke-linecap:round;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;1&quot;] ellipse:not([c_etype=&quot;pad_outer&quot;]) {fill:#FF0000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;1&quot;] polygon:not([c_etype=&quot;pad_outer&quot;]) {fill:#FF0000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;1&quot;] polyline:not([c_etype=&quot;pad_outer&quot;]) {stroke:#FF0000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;2&quot;] ellipse:not([c_etype=&quot;pad_outer&quot;]) {fill:#0000FF;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;2&quot;] polygon:not([c_etype=&quot;pad_outer&quot;]) {fill:#0000FF;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;2&quot;] polyline:not([c_etype=&quot;pad_outer&quot;]) {stroke:#0000FF;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] ellipse:not([c_etype=&quot;pad_outer&quot;]) {fill:#C0C0C0;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] polygon:not([c_etype=&quot;pad_outer&quot;]) {fill:#C0C0C0;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] polyline:not([c_etype=&quot;pad_outer&quot;]) {stroke:#C0C0C0;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] circle {fill:#222222;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] &gt; polyline:nth-of-type(2) {stroke:#222222;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;][c_shape=&quot;ELLIPSE&quot;]  polyline:nth-last-of-type(1) {stroke:#222222;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;][c_shape=&quot;RECT&quot;]  polyline:nth-last-of-type(1) {stroke:#222222;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;][c_shape=&quot;POLYGON&quot;]  polyline:nth-last-of-type(1) {stroke:#222222;}
+g[c_partid=&quot;part_via&quot;] &gt; * + circle, #gCurParts g[c_partid=&quot;part_via&quot;] &gt; * + circle {fill:#222222;}
+g[c_partid=&quot;part_pad&quot;] &gt; polygon[c_etype=&quot;pad_outer&quot;], #gCurParts g[c_partid=&quot;part_pad&quot;] &gt; polygon[c_etype=&quot;pad_outer&quot;] {stroke-linejoin: round;stroke-miterlimit: 100;}
+g[c_partid=&quot;part_hole&quot;] &gt; circle {fill: #222222;}path, polyline, polygon {stroke-linejoin:round;}
+rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges;}
+</style>
+  <style
+     id="style888-9"
+     type="text/css">
+*[layerid=&quot;1&quot;] {stroke:#FF0000;fill:#FF0000;}
+*[layerid=&quot;2&quot;] {stroke:#0000FF;fill:#0000FF;}
+*[layerid=&quot;3&quot;] {stroke:#FFCC00;fill:#FFCC00;}
+*[layerid=&quot;4&quot;] {stroke:#66CC33;fill:#66CC33;}
+*[layerid=&quot;5&quot;] {stroke:#808080;fill:#808080;}
+*[layerid=&quot;6&quot;] {stroke:#800000;fill:#800000;}
+*[layerid=&quot;7&quot;] {stroke:#800080;fill:#800080;stroke-opacity:0.7;fill-opacity:0.7;}
+*[layerid=&quot;8&quot;] {stroke:#AA00FF;fill:#AA00FF;stroke-opacity:0.7;fill-opacity:0.7;}
+*[layerid=&quot;9&quot;] {stroke:#6464FF;fill:#6464FF;}
+*[layerid=&quot;10&quot;] {stroke:#FF00FF;fill:#FF00FF;}
+*[layerid=&quot;11&quot;] {stroke:#C0C0C0;fill:#C0C0C0;}
+*[layerid=&quot;12&quot;] {stroke:#FFFFFF;fill:#FFFFFF;}
+*[layerid=&quot;13&quot;] {stroke:#33CC99;fill:#33CC99;}
+*[layerid=&quot;14&quot;] {stroke:#5555FF;fill:#5555FF;}
+*[layerid=&quot;15&quot;] {stroke:#F022F0;fill:#F022F0;}
+*[layerid=&quot;19&quot;] {stroke:#66CCFF;fill:#66CCFF;}
+*[layerid=&quot;21&quot;] {stroke:#999966;fill:#999966;}
+*[layerid=&quot;22&quot;] {stroke:#008000;fill:#008000;}
+*[layerid=&quot;23&quot;] {stroke:#00FF00;fill:#00FF00;}
+*[layerid=&quot;24&quot;] {stroke:#BC8E00;fill:#BC8E00;}
+*[layerid=&quot;25&quot;] {stroke:#70DBFA;fill:#70DBFA;}
+*[layerid=&quot;26&quot;] {stroke:#00CC66;fill:#00CC66;}
+*[layerid=&quot;27&quot;] {stroke:#9966FF;fill:#9966FF;}
+*[layerid=&quot;28&quot;] {stroke:#800080;fill:#800080;}
+*[layerid=&quot;29&quot;] {stroke:#008080;fill:#008080;}
+*[layerid=&quot;30&quot;] {stroke:#15935F;fill:#15935F;}
+*[layerid=&quot;31&quot;] {stroke:#000080;fill:#000080;}
+*[layerid=&quot;32&quot;] {stroke:#00B400;fill:#00B400;}
+*[layerid=&quot;33&quot;] {stroke:#2E4756;fill:#2E4756;}
+*[layerid=&quot;34&quot;] {stroke:#99842F;fill:#99842F;}
+*[layerid=&quot;35&quot;] {stroke:#FFFFAA;fill:#FFFFAA;}
+*[layerid=&quot;36&quot;] {stroke:#99842F;fill:#99842F;}
+*[layerid=&quot;37&quot;] {stroke:#2E4756;fill:#2E4756;}
+*[layerid=&quot;38&quot;] {stroke:#3535FF;fill:#3535FF;}
+*[layerid=&quot;39&quot;] {stroke:#8000BC;fill:#8000BC;}
+*[layerid=&quot;40&quot;] {stroke:#43AE5F;fill:#43AE5F;}
+*[layerid=&quot;41&quot;] {stroke:#C3ECCE;fill:#C3ECCE;}
+*[layerid=&quot;42&quot;] {stroke:#728978;fill:#728978;}
+*[layerid=&quot;43&quot;] {stroke:#39503F;fill:#39503F;}
+*[layerid=&quot;44&quot;] {stroke:#0C715D;fill:#0C715D;}
+*[layerid=&quot;45&quot;] {stroke:#5A8A80;fill:#5A8A80;}
+*[layerid=&quot;46&quot;] {stroke:#2B937E;fill:#2B937E;}
+*[layerid=&quot;47&quot;] {stroke:#23999D;fill:#23999D;}
+*[layerid=&quot;48&quot;] {stroke:#45B4E3;fill:#45B4E3;}
+*[layerid=&quot;49&quot;] {stroke:#215DA1;fill:#215DA1;}
+*[layerid=&quot;50&quot;] {stroke:#4564D7;fill:#4564D7;}
+*[layerid=&quot;51&quot;] {stroke:#6969E9;fill:#6969E9;}
+*[layerid=&quot;52&quot;] {stroke:#9069E9;fill:#9069E9;}
+*[layerid=&quot;99&quot;] {stroke:#00CCCC;fill:#00CCCC;stroke-opacity:0.6;fill-opacity:0.6;}
+*[layerid=&quot;100&quot;] {stroke:#CC9999;fill:#CC9999;}
+*[layerid=&quot;101&quot;] {stroke:#66FFCC;fill:#66FFCC;}
+*[layerid=&quot;Hole&quot;] {stroke:#222222;fill:#222222;}
+*[layerid=&quot;DRCError&quot;] {stroke:#FAD609;fill:#FAD609;}
+*[fill=&quot;none&quot;] {fill: none;}
+*[stroke=&quot;none&quot;] {stroke: none;}
+path, polyline, polygon, line {stroke-linecap:round;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;1&quot;] ellipse:not([c_etype=&quot;pad_outer&quot;]) {fill:#FF0000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;1&quot;] polygon:not([c_etype=&quot;pad_outer&quot;]) {fill:#FF0000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;1&quot;] polyline:not([c_etype=&quot;pad_outer&quot;]) {stroke:#FF0000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;2&quot;] ellipse:not([c_etype=&quot;pad_outer&quot;]) {fill:#0000FF;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;2&quot;] polygon:not([c_etype=&quot;pad_outer&quot;]) {fill:#0000FF;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;2&quot;] polyline:not([c_etype=&quot;pad_outer&quot;]) {stroke:#0000FF;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] ellipse:not([c_etype=&quot;pad_outer&quot;]) {fill:#C0C0C0;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] polygon:not([c_etype=&quot;pad_outer&quot;]) {fill:#C0C0C0;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] polyline:not([c_etype=&quot;pad_outer&quot;]) {stroke:#C0C0C0;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] circle {fill:#222222;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] &gt; polyline:nth-of-type(2) {stroke:#222222;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;][c_shape=&quot;ELLIPSE&quot;]  polyline:nth-last-of-type(1) {stroke:#222222;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;][c_shape=&quot;RECT&quot;]  polyline:nth-last-of-type(1) {stroke:#222222;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;][c_shape=&quot;POLYGON&quot;]  polyline:nth-last-of-type(1) {stroke:#222222;}
+g[c_partid=&quot;part_via&quot;] &gt; * + circle, #gCurParts g[c_partid=&quot;part_via&quot;] &gt; * + circle {fill:#222222;}
+g[c_partid=&quot;part_pad&quot;] &gt; polygon[c_etype=&quot;pad_outer&quot;], #gCurParts g[c_partid=&quot;part_pad&quot;] &gt; polygon[c_etype=&quot;pad_outer&quot;] {stroke-linejoin: round;stroke-miterlimit: 100;}
+g[c_partid=&quot;part_hole&quot;] &gt; circle {fill: #222222;}path, polyline, polygon {stroke-linejoin:round;}
+rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges;}
+</style>
+  <style
+     id="style888-8"
+     type="text/css">
+*[layerid=&quot;1&quot;] {stroke:#FF0000;fill:#FF0000;}
+*[layerid=&quot;2&quot;] {stroke:#0000FF;fill:#0000FF;}
+*[layerid=&quot;3&quot;] {stroke:#FFCC00;fill:#FFCC00;}
+*[layerid=&quot;4&quot;] {stroke:#66CC33;fill:#66CC33;}
+*[layerid=&quot;5&quot;] {stroke:#808080;fill:#808080;}
+*[layerid=&quot;6&quot;] {stroke:#800000;fill:#800000;}
+*[layerid=&quot;7&quot;] {stroke:#800080;fill:#800080;stroke-opacity:0.7;fill-opacity:0.7;}
+*[layerid=&quot;8&quot;] {stroke:#AA00FF;fill:#AA00FF;stroke-opacity:0.7;fill-opacity:0.7;}
+*[layerid=&quot;9&quot;] {stroke:#6464FF;fill:#6464FF;}
+*[layerid=&quot;10&quot;] {stroke:#FF00FF;fill:#FF00FF;}
+*[layerid=&quot;11&quot;] {stroke:#C0C0C0;fill:#C0C0C0;}
+*[layerid=&quot;12&quot;] {stroke:#FFFFFF;fill:#FFFFFF;}
+*[layerid=&quot;13&quot;] {stroke:#33CC99;fill:#33CC99;}
+*[layerid=&quot;14&quot;] {stroke:#5555FF;fill:#5555FF;}
+*[layerid=&quot;15&quot;] {stroke:#F022F0;fill:#F022F0;}
+*[layerid=&quot;19&quot;] {stroke:#66CCFF;fill:#66CCFF;}
+*[layerid=&quot;21&quot;] {stroke:#999966;fill:#999966;}
+*[layerid=&quot;22&quot;] {stroke:#008000;fill:#008000;}
+*[layerid=&quot;23&quot;] {stroke:#00FF00;fill:#00FF00;}
+*[layerid=&quot;24&quot;] {stroke:#BC8E00;fill:#BC8E00;}
+*[layerid=&quot;25&quot;] {stroke:#70DBFA;fill:#70DBFA;}
+*[layerid=&quot;26&quot;] {stroke:#00CC66;fill:#00CC66;}
+*[layerid=&quot;27&quot;] {stroke:#9966FF;fill:#9966FF;}
+*[layerid=&quot;28&quot;] {stroke:#800080;fill:#800080;}
+*[layerid=&quot;29&quot;] {stroke:#008080;fill:#008080;}
+*[layerid=&quot;30&quot;] {stroke:#15935F;fill:#15935F;}
+*[layerid=&quot;31&quot;] {stroke:#000080;fill:#000080;}
+*[layerid=&quot;32&quot;] {stroke:#00B400;fill:#00B400;}
+*[layerid=&quot;33&quot;] {stroke:#2E4756;fill:#2E4756;}
+*[layerid=&quot;34&quot;] {stroke:#99842F;fill:#99842F;}
+*[layerid=&quot;35&quot;] {stroke:#FFFFAA;fill:#FFFFAA;}
+*[layerid=&quot;36&quot;] {stroke:#99842F;fill:#99842F;}
+*[layerid=&quot;37&quot;] {stroke:#2E4756;fill:#2E4756;}
+*[layerid=&quot;38&quot;] {stroke:#3535FF;fill:#3535FF;}
+*[layerid=&quot;39&quot;] {stroke:#8000BC;fill:#8000BC;}
+*[layerid=&quot;40&quot;] {stroke:#43AE5F;fill:#43AE5F;}
+*[layerid=&quot;41&quot;] {stroke:#C3ECCE;fill:#C3ECCE;}
+*[layerid=&quot;42&quot;] {stroke:#728978;fill:#728978;}
+*[layerid=&quot;43&quot;] {stroke:#39503F;fill:#39503F;}
+*[layerid=&quot;44&quot;] {stroke:#0C715D;fill:#0C715D;}
+*[layerid=&quot;45&quot;] {stroke:#5A8A80;fill:#5A8A80;}
+*[layerid=&quot;46&quot;] {stroke:#2B937E;fill:#2B937E;}
+*[layerid=&quot;47&quot;] {stroke:#23999D;fill:#23999D;}
+*[layerid=&quot;48&quot;] {stroke:#45B4E3;fill:#45B4E3;}
+*[layerid=&quot;49&quot;] {stroke:#215DA1;fill:#215DA1;}
+*[layerid=&quot;50&quot;] {stroke:#4564D7;fill:#4564D7;}
+*[layerid=&quot;51&quot;] {stroke:#6969E9;fill:#6969E9;}
+*[layerid=&quot;52&quot;] {stroke:#9069E9;fill:#9069E9;}
+*[layerid=&quot;99&quot;] {stroke:#00CCCC;fill:#00CCCC;stroke-opacity:0.6;fill-opacity:0.6;}
+*[layerid=&quot;100&quot;] {stroke:#CC9999;fill:#CC9999;}
+*[layerid=&quot;101&quot;] {stroke:#66FFCC;fill:#66FFCC;}
+*[layerid=&quot;Hole&quot;] {stroke:#222222;fill:#222222;}
+*[layerid=&quot;DRCError&quot;] {stroke:#FAD609;fill:#FAD609;}
+*[fill=&quot;none&quot;] {fill: none;}
+*[stroke=&quot;none&quot;] {stroke: none;}
+path, polyline, polygon, line {stroke-linecap:round;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;1&quot;] ellipse:not([c_etype=&quot;pad_outer&quot;]) {fill:#FF0000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;1&quot;] polygon:not([c_etype=&quot;pad_outer&quot;]) {fill:#FF0000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;1&quot;] polyline:not([c_etype=&quot;pad_outer&quot;]) {stroke:#FF0000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;2&quot;] ellipse:not([c_etype=&quot;pad_outer&quot;]) {fill:#0000FF;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;2&quot;] polygon:not([c_etype=&quot;pad_outer&quot;]) {fill:#0000FF;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;2&quot;] polyline:not([c_etype=&quot;pad_outer&quot;]) {stroke:#0000FF;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] ellipse:not([c_etype=&quot;pad_outer&quot;]) {fill:#C0C0C0;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] polygon:not([c_etype=&quot;pad_outer&quot;]) {fill:#C0C0C0;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] polyline:not([c_etype=&quot;pad_outer&quot;]) {stroke:#C0C0C0;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] circle {fill:#222222;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] &gt; polyline:nth-of-type(2) {stroke:#222222;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;][c_shape=&quot;ELLIPSE&quot;]  polyline:nth-last-of-type(1) {stroke:#222222;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;][c_shape=&quot;RECT&quot;]  polyline:nth-last-of-type(1) {stroke:#222222;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;][c_shape=&quot;POLYGON&quot;]  polyline:nth-last-of-type(1) {stroke:#222222;}
+g[c_partid=&quot;part_via&quot;] &gt; * + circle, #gCurParts g[c_partid=&quot;part_via&quot;] &gt; * + circle {fill:#222222;}
+g[c_partid=&quot;part_pad&quot;] &gt; polygon[c_etype=&quot;pad_outer&quot;], #gCurParts g[c_partid=&quot;part_pad&quot;] &gt; polygon[c_etype=&quot;pad_outer&quot;] {stroke-linejoin: round;stroke-miterlimit: 100;}
+g[c_partid=&quot;part_hole&quot;] &gt; circle {fill: #222222;}path, polyline, polygon {stroke-linejoin:round;}
+rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges;}
+</style>
+  <style
+     id="style888-4"
+     type="text/css">
+*[layerid=&quot;1&quot;] {stroke:#FF0000;fill:#FF0000;}
+*[layerid=&quot;2&quot;] {stroke:#0000FF;fill:#0000FF;}
+*[layerid=&quot;3&quot;] {stroke:#FFCC00;fill:#FFCC00;}
+*[layerid=&quot;4&quot;] {stroke:#66CC33;fill:#66CC33;}
+*[layerid=&quot;5&quot;] {stroke:#808080;fill:#808080;}
+*[layerid=&quot;6&quot;] {stroke:#800000;fill:#800000;}
+*[layerid=&quot;7&quot;] {stroke:#800080;fill:#800080;stroke-opacity:0.7;fill-opacity:0.7;}
+*[layerid=&quot;8&quot;] {stroke:#AA00FF;fill:#AA00FF;stroke-opacity:0.7;fill-opacity:0.7;}
+*[layerid=&quot;9&quot;] {stroke:#6464FF;fill:#6464FF;}
+*[layerid=&quot;10&quot;] {stroke:#FF00FF;fill:#FF00FF;}
+*[layerid=&quot;11&quot;] {stroke:#C0C0C0;fill:#C0C0C0;}
+*[layerid=&quot;12&quot;] {stroke:#FFFFFF;fill:#FFFFFF;}
+*[layerid=&quot;13&quot;] {stroke:#33CC99;fill:#33CC99;}
+*[layerid=&quot;14&quot;] {stroke:#5555FF;fill:#5555FF;}
+*[layerid=&quot;15&quot;] {stroke:#F022F0;fill:#F022F0;}
+*[layerid=&quot;19&quot;] {stroke:#66CCFF;fill:#66CCFF;}
+*[layerid=&quot;21&quot;] {stroke:#999966;fill:#999966;}
+*[layerid=&quot;22&quot;] {stroke:#008000;fill:#008000;}
+*[layerid=&quot;23&quot;] {stroke:#00FF00;fill:#00FF00;}
+*[layerid=&quot;24&quot;] {stroke:#BC8E00;fill:#BC8E00;}
+*[layerid=&quot;25&quot;] {stroke:#70DBFA;fill:#70DBFA;}
+*[layerid=&quot;26&quot;] {stroke:#00CC66;fill:#00CC66;}
+*[layerid=&quot;27&quot;] {stroke:#9966FF;fill:#9966FF;}
+*[layerid=&quot;28&quot;] {stroke:#800080;fill:#800080;}
+*[layerid=&quot;29&quot;] {stroke:#008080;fill:#008080;}
+*[layerid=&quot;30&quot;] {stroke:#15935F;fill:#15935F;}
+*[layerid=&quot;31&quot;] {stroke:#000080;fill:#000080;}
+*[layerid=&quot;32&quot;] {stroke:#00B400;fill:#00B400;}
+*[layerid=&quot;33&quot;] {stroke:#2E4756;fill:#2E4756;}
+*[layerid=&quot;34&quot;] {stroke:#99842F;fill:#99842F;}
+*[layerid=&quot;35&quot;] {stroke:#FFFFAA;fill:#FFFFAA;}
+*[layerid=&quot;36&quot;] {stroke:#99842F;fill:#99842F;}
+*[layerid=&quot;37&quot;] {stroke:#2E4756;fill:#2E4756;}
+*[layerid=&quot;38&quot;] {stroke:#3535FF;fill:#3535FF;}
+*[layerid=&quot;39&quot;] {stroke:#8000BC;fill:#8000BC;}
+*[layerid=&quot;40&quot;] {stroke:#43AE5F;fill:#43AE5F;}
+*[layerid=&quot;41&quot;] {stroke:#C3ECCE;fill:#C3ECCE;}
+*[layerid=&quot;42&quot;] {stroke:#728978;fill:#728978;}
+*[layerid=&quot;43&quot;] {stroke:#39503F;fill:#39503F;}
+*[layerid=&quot;44&quot;] {stroke:#0C715D;fill:#0C715D;}
+*[layerid=&quot;45&quot;] {stroke:#5A8A80;fill:#5A8A80;}
+*[layerid=&quot;46&quot;] {stroke:#2B937E;fill:#2B937E;}
+*[layerid=&quot;47&quot;] {stroke:#23999D;fill:#23999D;}
+*[layerid=&quot;48&quot;] {stroke:#45B4E3;fill:#45B4E3;}
+*[layerid=&quot;49&quot;] {stroke:#215DA1;fill:#215DA1;}
+*[layerid=&quot;50&quot;] {stroke:#4564D7;fill:#4564D7;}
+*[layerid=&quot;51&quot;] {stroke:#6969E9;fill:#6969E9;}
+*[layerid=&quot;52&quot;] {stroke:#9069E9;fill:#9069E9;}
+*[layerid=&quot;99&quot;] {stroke:#00CCCC;fill:#00CCCC;stroke-opacity:0.6;fill-opacity:0.6;}
+*[layerid=&quot;100&quot;] {stroke:#CC9999;fill:#CC9999;}
+*[layerid=&quot;101&quot;] {stroke:#66FFCC;fill:#66FFCC;}
+*[layerid=&quot;Hole&quot;] {stroke:#222222;fill:#222222;}
+*[layerid=&quot;DRCError&quot;] {stroke:#FAD609;fill:#FAD609;}
+*[fill=&quot;none&quot;] {fill: none;}
+*[stroke=&quot;none&quot;] {stroke: none;}
+path, polyline, polygon, line {stroke-linecap:round;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;1&quot;] ellipse:not([c_etype=&quot;pad_outer&quot;]) {fill:#FF0000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;1&quot;] polygon:not([c_etype=&quot;pad_outer&quot;]) {fill:#FF0000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;1&quot;] polyline:not([c_etype=&quot;pad_outer&quot;]) {stroke:#FF0000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;2&quot;] ellipse:not([c_etype=&quot;pad_outer&quot;]) {fill:#0000FF;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;2&quot;] polygon:not([c_etype=&quot;pad_outer&quot;]) {fill:#0000FF;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;2&quot;] polyline:not([c_etype=&quot;pad_outer&quot;]) {stroke:#0000FF;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] ellipse:not([c_etype=&quot;pad_outer&quot;]) {fill:#C0C0C0;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] polygon:not([c_etype=&quot;pad_outer&quot;]) {fill:#C0C0C0;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] polyline:not([c_etype=&quot;pad_outer&quot;]) {stroke:#C0C0C0;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] circle {fill:#222222;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] &gt; polyline:nth-of-type(2) {stroke:#222222;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;][c_shape=&quot;ELLIPSE&quot;]  polyline:nth-last-of-type(1) {stroke:#222222;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;][c_shape=&quot;RECT&quot;]  polyline:nth-last-of-type(1) {stroke:#222222;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;][c_shape=&quot;POLYGON&quot;]  polyline:nth-last-of-type(1) {stroke:#222222;}
+g[c_partid=&quot;part_via&quot;] &gt; * + circle, #gCurParts g[c_partid=&quot;part_via&quot;] &gt; * + circle {fill:#222222;}
+g[c_partid=&quot;part_pad&quot;] &gt; polygon[c_etype=&quot;pad_outer&quot;], #gCurParts g[c_partid=&quot;part_pad&quot;] &gt; polygon[c_etype=&quot;pad_outer&quot;] {stroke-linejoin: round;stroke-miterlimit: 100;}
+g[c_partid=&quot;part_hole&quot;] &gt; circle {fill: #222222;}path, polyline, polygon {stroke-linejoin:round;}
+rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges;}
+</style>
+</svg>
