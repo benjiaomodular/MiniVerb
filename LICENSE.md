@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2022 Benjamin Joseph Jiao
+Copyright (c) 2023 Benjamin Joseph Jiao
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this hardware, software, and associated documentation files (the "Product"), to deal in the Product without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Product, and to permit persons to whom the Product is furnished to do so, subject to the following conditions:
 
