@@ -2,7 +2,7 @@
   "board": {
     "design_settings": {
       "defaults": {
-        "board_outline_line_width": 0.09999999999999999,
+        "board_outline_line_width": 0.049999999999999996,
         "copper_line_width": 0.19999999999999998,
         "copper_text_italic": false,
         "copper_text_size_h": 1.5,
@@ -26,18 +26,18 @@
         "fab_text_size_v": 1.0,
         "fab_text_thickness": 0.15,
         "fab_text_upright": false,
-        "other_line_width": 0.15,
+        "other_line_width": 0.09999999999999999,
         "other_text_italic": false,
         "other_text_size_h": 1.0,
         "other_text_size_v": 1.0,
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 7.0,
-          "height": 8.0,
-          "width": 8.0
+          "drill": 0.762,
+          "height": 1.524,
+          "width": 1.524
         },
-        "silk_line_width": 0.15,
+        "silk_line_width": 0.12,
         "silk_text_italic": false,
         "silk_text_size_h": 1.0,
         "silk_text_size_v": 1.0,
@@ -48,49 +48,8 @@
           "min_clearance": 0.508
         }
       },
-      "diff_pair_dimensions": [
-        {
-          "gap": 0.0,
-          "via_gap": 0.0,
-          "width": 0.0
-        }
-      ],
-      "drc_exclusions": [
-        "clearance|137147401|134035144|9cc6be09-4ba9-45dc-b524-8c3b4b5157b0|4a9d590b-370e-4db6-b3c4-f8f9eed32a48",
-        "courtyards_overlap|130644545|111689999|a31da932-7af3-430d-83d1-65e42c7e087d|853e6c9e-c239-4996-ac46-7b7e3e7a1d20",
-        "courtyards_overlap|133651501|92488001|69801682-9100-46a7-bc5d-f267edd34a0f|a31da932-7af3-430d-83d1-65e42c7e087d",
-        "courtyards_overlap|133651501|92488001|a31da932-7af3-430d-83d1-65e42c7e087d|69801682-9100-46a7-bc5d-f267edd34a0f",
-        "courtyards_overlap|134050118|94020001|a31da932-7af3-430d-83d1-65e42c7e087d|babfae4e-455d-4627-aa37-ac8cb589bff7",
-        "courtyards_overlap|134329999|114700000|3deb76b6-f2be-4ba0-bae7-11c08020be44|a31da932-7af3-430d-83d1-65e42c7e087d",
-        "courtyards_overlap|134329999|114700000|a31da932-7af3-430d-83d1-65e42c7e087d|3deb76b6-f2be-4ba0-bae7-11c08020be44",
-        "courtyards_overlap|134448215|95550001|a31da932-7af3-430d-83d1-65e42c7e087d|c834695b-228d-4817-ba19-696427b68663",
-        "courtyards_overlap|134845011|97075001|906abfd8-e477-4949-bd5b-3cbc3c813b6a|a31da932-7af3-430d-83d1-65e42c7e087d",
-        "courtyards_overlap|134845011|97075001|a31da932-7af3-430d-83d1-65e42c7e087d|906abfd8-e477-4949-bd5b-3cbc3c813b6a",
-        "courtyards_overlap|136326817|102770001|36083da5-f6d8-4b24-8eb5-bb5c24cef001|a31da932-7af3-430d-83d1-65e42c7e087d",
-        "courtyards_overlap|136326817|102770001|a31da932-7af3-430d-83d1-65e42c7e087d|36083da5-f6d8-4b24-8eb5-bb5c24cef001",
-        "courtyards_overlap|136722312|104290001|853e6c9e-c239-4996-ac46-7b7e3e7a1d20|a31da932-7af3-430d-83d1-65e42c7e087d",
-        "courtyards_overlap|137522623|95540001|a31da932-7af3-430d-83d1-65e42c7e087d|eb289bcb-7732-438c-a97c-1a85fd6df51e",
-        "courtyards_overlap|138066292|97070001|a27eec1b-b8ef-47ac-b3fb-c05e50d0a7e5|a31da932-7af3-430d-83d1-65e42c7e087d",
-        "courtyards_overlap|138066292|97070001|a31da932-7af3-430d-83d1-65e42c7e087d|a27eec1b-b8ef-47ac-b3fb-c05e50d0a7e5",
-        "courtyards_overlap|166789068|91875934|da8db659-726d-4c63-8706-72d27aa85a04|a31da932-7af3-430d-83d1-65e42c7e087d",
-        "courtyards_overlap|166809068|93395934|10cf8071-9a47-4b94-9cf8-9da83955db48|a31da932-7af3-430d-83d1-65e42c7e087d",
-        "courtyards_overlap|166809068|94925934|bf50971f-59c1-4657-88b4-d42468225981|a31da932-7af3-430d-83d1-65e42c7e087d",
-        "courtyards_overlap|167579066|101745933|e187c543-7ee0-4c3f-b7a1-f83345a4cf57|a31da932-7af3-430d-83d1-65e42c7e087d",
-        "courtyards_overlap|167589999|102945932|8527149a-2b66-4f4a-ad40-6faf68804f68|a31da932-7af3-430d-83d1-65e42c7e087d",
-        "courtyards_overlap|167662501|91855001|da8db659-726d-4c63-8706-72d27aa85a04|a31da932-7af3-430d-83d1-65e42c7e087d",
-        "courtyards_overlap|167682501|93375001|10cf8071-9a47-4b94-9cf8-9da83955db48|a31da932-7af3-430d-83d1-65e42c7e087d",
-        "courtyards_overlap|167682501|94905001|bf50971f-59c1-4657-88b4-d42468225981|a31da932-7af3-430d-83d1-65e42c7e087d",
-        "courtyards_overlap|168957700|80330001|f584b5e5-2feb-4aa4-9ed2-6425186eb7b3|a31da932-7af3-430d-83d1-65e42c7e087d",
-        "courtyards_overlap|170199068|93075934|2460289f-f6de-4fba-84e0-5a0d0f2ea97a|a31da932-7af3-430d-83d1-65e42c7e087d",
-        "courtyards_overlap|170732727|77270001|2fcc09f5-ff79-42a2-878e-1248e0e7c38b|a31da932-7af3-430d-83d1-65e42c7e087d",
-        "courtyards_overlap|171276397|78800001|1ddab91d-d5f8-4715-99a0-621da3bf50f3|a31da932-7af3-430d-83d1-65e42c7e087d",
-        "courtyards_overlap|171961884|91875934|2fcc09f5-ff79-42a2-878e-1248e0e7c38b|a31da932-7af3-430d-83d1-65e42c7e087d",
-        "courtyards_overlap|172359981|93405934|1ddab91d-d5f8-4715-99a0-621da3bf50f3|a31da932-7af3-430d-83d1-65e42c7e087d",
-        "courtyards_overlap|172649855|94520001|2460289f-f6de-4fba-84e0-5a0d0f2ea97a|a31da932-7af3-430d-83d1-65e42c7e087d",
-        "courtyards_overlap|172758078|94935934|f584b5e5-2feb-4aa4-9ed2-6425186eb7b3|a31da932-7af3-430d-83d1-65e42c7e087d",
-        "courtyards_overlap|173236568|50615934|268bd8d6-54a2-4833-b25d-c7ea45c53938|a31da932-7af3-430d-83d1-65e42c7e087d",
-        "courtyards_overlap|174529999|101745933|57e8264a-74b9-4588-905c-be17c0c7392e|a31da932-7af3-430d-83d1-65e42c7e087d"
-      ],
+      "diff_pair_dimensions": [],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -120,8 +79,8 @@
         "padstack": "error",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_over_copper": "ignore",
-        "silk_overlap": "ignore",
+        "silk_over_copper": "warning",
+        "silk_overlap": "warning",
         "skew_out_of_range": "error",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
@@ -130,7 +89,7 @@
         "tracks_crossing": "error",
         "unconnected_items": "error",
         "unresolved_variable": "error",
-        "via_dangling": "ignore",
+        "via_dangling": "warning",
         "zone_has_empty_net": "error",
         "zones_intersect": "error"
       },
@@ -149,26 +108,10 @@
         "min_track_width": 0.19999999999999998,
         "min_via_annular_width": 0.049999999999999996,
         "min_via_diameter": 0.39999999999999997,
-        "solder_mask_clearance": 0.0,
-        "solder_mask_min_width": 0.0,
         "use_height_for_length_calcs": true
       },
-      "track_widths": [
-        0.0,
-        0.2,
-        0.25,
-        0.5
-      ],
-      "via_dimensions": [
-        {
-          "diameter": 0.0,
-          "drill": 0.0
-        },
-        {
-          "diameter": 0.5,
-          "drill": 0.2
-        }
-      ],
+      "track_widths": [],
+      "via_dimensions": [],
       "zones_allow_external_fillets": false,
       "zones_use_no_outline": true
     },
@@ -388,7 +331,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "MiniVerb.kicad_pro",
+    "filename": "MiniVerb 2.1 - Front.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -420,7 +363,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "../../../../../../home/benjiao/",
+      "netlist": "",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
@@ -439,9 +382,9 @@
       "intersheets_ref_show": false,
       "intersheets_ref_suffix": "",
       "junction_size_choice": 3,
-      "label_size_ratio": 0.25,
-      "pin_symbol_size": 0.0,
-      "text_offset_ratio": 0.08
+      "label_size_ratio": 0.375,
+      "pin_symbol_size": 25.0,
+      "text_offset_ratio": 0.15
     },
     "legacy_lib_dir": "",
     "legacy_lib_list": [],
@@ -449,27 +392,13 @@
       "version": 1
     },
     "net_format_name": "",
-    "ngspice": {
-      "fix_include_paths": true,
-      "fix_passive_vals": false,
-      "meta": {
-        "version": 0
-      },
-      "model_mode": 0,
-      "workbook_filename": ""
-    },
     "page_layout_descr_file": "",
-    "plot_directory": "MiniVerb v2.0 - Schematic",
+    "plot_directory": "",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [
-    [
-      "991c5495-88cf-4d3f-a1d3-91bed4664b8d",
-      ""
-    ]
-  ],
+  "sheets": [],
   "text_variables": {}
 }
