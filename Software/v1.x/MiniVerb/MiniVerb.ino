@@ -1,4 +1,4 @@
-For benjiaomodular MiniVerb v1.x
+// For benjiaomodular MiniVerb v1.x
 // Based on reverbsc by Stephen Hensley
 
 #include "DaisyDuino.h"
